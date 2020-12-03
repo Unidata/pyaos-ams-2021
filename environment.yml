@@ -1,4 +1,4 @@
-name: pyaos-ams-2021
+ name: pyaos-ams-2021
  channels:
    - conda-forge
  dependencies:
