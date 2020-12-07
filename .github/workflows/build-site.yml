@@ -24,11 +24,23 @@ jobs:
       with:
         python-version: 3.9
 
-    - name: Install dependencies (PyPI)
-      run: python -m pip install sphinx myst-parser pydata-sphinx-theme
+    - name: Install dependencies
+      run: python -m pip install -r ci/build_requirements.txt
 
     - name: Build docs
-      run: make html linkcheck
+      run: |
+        pushd site
+        make html O=-W
+        popd
+
+    # Need to do separately and remove these extra license files that get dumped into
+    # the build and cause warnings.
+    - name: Check links
+      run: |
+        pushd site
+        find build/html/_static -name LICENSE.md -delete
+        make linkcheck
+        popd
 
     - name: Upload docs as artifact
       if: ${{ github.event_name == 'pull_request' }}
