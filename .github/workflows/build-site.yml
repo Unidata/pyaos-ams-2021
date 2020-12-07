@@ -30,7 +30,7 @@ jobs:
     - name: Build docs
       run: |
         pushd site
-        make html linkcheck
+        make html linkcheck O=-W
         popd
 
     - name: Upload docs as artifact
