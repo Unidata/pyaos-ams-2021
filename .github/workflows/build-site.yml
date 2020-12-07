@@ -27,7 +27,7 @@ jobs:
     - name: Install dependencies
       run: python -m pip install -r ci/build_requirements.txt
 
-    - name: Build docs
+    - name: Build site
       run: |
         pushd site
         make html O=-W
@@ -42,19 +42,19 @@ jobs:
         make linkcheck
         popd
 
-    - name: Upload docs as artifact
+    - name: Upload site as artifact
       if: ${{ github.event_name == 'pull_request' }}
       uses: actions/upload-artifact@v2
       with:
-        name: build-docs
-        path: docs/build/html
+        name: build-site
+        path: site/build/html
 
     - name: Upload to GitHub Pages
       if: ${{ github.event_name != 'pull_request' }}
       uses: peaceiris/actions-gh-pages@v3.7.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs/build/html
+        publish_dir: ./site/build/html
         exclude_assets: '.buildinfo,_static/jquery-*.js,_static/underscore-*.js'
         keep_files: false
         full_commit_message: Deploy to GitHub Pages
