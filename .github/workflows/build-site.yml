@@ -30,7 +30,16 @@ jobs:
     - name: Build docs
       run: |
         pushd site
-        make html linkcheck O=-W
+        make html O=-W
+        popd
+
+    # Need to do separately and remove these extra license files that get dumped into
+    # the build and cause warnings.
+    - name: Check links
+      run: |
+        pushd site
+        find build/html/_static -name LICENSE.md -delete
+        make linkcheck
         popd
 
     - name: Upload docs as artifact
