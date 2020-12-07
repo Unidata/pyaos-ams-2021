@@ -28,7 +28,10 @@ jobs:
       run: python -m pip install sphinx myst-parser pydata-sphinx-theme
 
     - name: Build docs
-      run: make html linkcheck
+      run: |
+        pushd site
+        make html linkcheck
+        popd
 
     - name: Upload docs as artifact
       if: ${{ github.event_name == 'pull_request' }}
