@@ -9,7 +9,7 @@ __pycache__/*
 cache/*
 output/*
 plugins/*
-pages/gallery/exec_nb/*
+site/build/*
 
 id_rsa
 id_rsa.pub
