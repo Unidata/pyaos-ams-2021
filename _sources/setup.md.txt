@@ -1,4 +1,4 @@
-Installation and Setup
-======================
+Workshop Environment
+====================
 
-Install instructions.
+Details about the JupyterHub server used for the workshop.
