@@ -17,9 +17,9 @@ If you are using conda, you can follow these steps while inside the `site/` dire
   - in a unix/mac environment:
     `make html`
   - in windows environment:
-    `make.bat html`
+    `.\make html`
 
 The site will be located in the `build/html/` directory.
 Open `build/html/index.html` in your browser and stand back in awe!
 
-To clean up the generate files, run `make clean` or `make.bat clean`.
+To clean up the generate files, run `make clean` or `.\make clean`.
