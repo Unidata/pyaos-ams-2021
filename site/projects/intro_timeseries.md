@@ -20,5 +20,4 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 * Matplotlib basics
 * Matplotlib Intermediate
 
-
 ## Related MetPy Monday Videos
