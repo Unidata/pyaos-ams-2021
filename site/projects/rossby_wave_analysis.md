@@ -11,7 +11,7 @@ Allows application of existing calculations and implementation of own calculatio
 ## Related Training Notebooks
 
 ### Data Access
-* xarray  (data access)
+* xarray (data access)
 
 ### Analysis
 * xarray (indexing)

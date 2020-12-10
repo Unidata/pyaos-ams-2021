@@ -18,7 +18,7 @@ _description here_
 * Siphon (subset)
 
 ### Analysis
-* xarray  (data access)
+* xarray (data access)
 * xarray (indexing)
 * xarray (interpolation)
 * xarray (aggregations)

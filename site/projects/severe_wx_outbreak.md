@@ -16,7 +16,7 @@ _description here_
 * Siphon (remote_access)
 * Siphon (remote_open)
 * Siphon (subset)
-* xarray  (data access)
+* xarray (data access)
 
 ### Analysis
 * MetPy (basic calculations)

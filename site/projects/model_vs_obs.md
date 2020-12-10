@@ -18,7 +18,7 @@ Highlight ways to enhance timeseries charts (time formatting on x-axis, latex la
 * Siphon (remote_access)
 * Siphon (remote_open)
 * Siphon (subset)
-* xarray  (data access)
+* xarray (data access)
 * python-awips (access model output)
 * python-awips (surface obs access)
 
