@@ -14,14 +14,19 @@ If I were participating in the conference, I'd sign up for this workshop because
 ## Related Training Notebooks
 
 ### Data Access
-* THREDDS Data Search
-* Siphon Access
-* python-awips satellite
+* Siphon (TDS intro)
+* Siphon (catalogs basic)
+* Siphon (catalogs filtering)
+* Siphon (remote_access)
+* Siphon (remote_open)
+* Siphon (subset)
+* python-awips (satellite data access)
 
 ### Visualization
-* Matplotlib Intermediate
-* Cartopy
-* python-awips intro
-* python-awips maps database
+* Matplotlib (intermediate)
+* Cartopy (basic)
+* Cartopy (intermediate)
+* python-awips (intro)
+* python-awips (maps database)
 
 ## Related MetPy Monday Videos

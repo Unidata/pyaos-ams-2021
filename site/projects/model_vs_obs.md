@@ -12,20 +12,26 @@ Highlight ways to enhance timeseries charts (time formatting on x-axis, latex la
 ## Related Training notebooks
 
 ### Data Access
-* Siphon Access & Parsing
-* xarray basics (data access)
-* python-awips model
-* python-awips surface obs
+* Siphon (TDS intro)
+* Siphon (catalogs basic)
+* Siphon (catalogs filtering)
+* Siphon (remote_access)
+* Siphon (remote_open)
+* Siphon (subset)
+* xarray  (data access)
+* python-awips (access model output)
+* python-awips (surface obs access)
 
 ### Analysis
-* Numpy
-* Pandas
-* xarray basics (indexing, and interpolation)
+* Numpy (basics)
+* Pandas (basics)
+* xarray (indexing)
+* xarray (interpolation)
 
 ### Visualization
-* Matplotlib basics
-* Matplotlib Intermediate
-* python-awips intro
-* python-awips maps database
+* Matplotlib (basics)
+* Matplotlib (intermediate)
+* python-awips (maps database)
+* python-awips (intro)
 
 ## Related MetPy Monday Videos

@@ -10,16 +10,29 @@ _description here_
 ## Related Training Notebooks
 
 ### Data Access
-* Siphon Access & Parsing
-* Downloading Model Data with NCSS
+* Siphon (TDS intro)
+* Siphon (catalogs basic)
+* Siphon (catalogs filtering)
+* Siphon (remote_access)
+* Siphon (remote_open)
+* Siphon (subset)
 
 ### Analysis
-* xarray basics (data access, indexing, and interpolation)
-* xarray intermediate (aggregations and calculations)
+* xarray  (data access)
+* xarray (indexing)
+* xarray (interpolation)
+* xarray (aggregations)
+* xarray (calculations)
+* Unit-aware operations (Pint)
+* MetPy (basic calculations)
+* MetPy (unit-aware calculations)
+
+### Meteorological Background Material
 * Isentropic Analysis
 * Cross Section Analysis
 
 ### Visualization
-* Introduction to Cartopy
+* Cartopy (basic)
+* Cartopy (intermediate)
 
 ## Related MetPy Monday Videos
