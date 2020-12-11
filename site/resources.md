@@ -145,7 +145,7 @@ Resources
   _add description_
 
 ### Notebook Enhancements
-Notebook widgets
+* Notebook widgets
 
   _add description_
 
