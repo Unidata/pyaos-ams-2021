@@ -13,11 +13,11 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 ## Related Training Notebooks
 
 ### Analysis
-* Numpy
-* Pandas
+* Numpy (basics)
+* Pandas (basics)
 
 ### Visualization
-* Matplotlib basics
-* Matplotlib Intermediate
+* Matplotlib (basics)
+* Matplotlib (intermediate)
 
 ## Related MetPy Monday Videos

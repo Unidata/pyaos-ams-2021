@@ -12,16 +12,24 @@ Introduce notebook widgets.
 ## Related Training Notebooks
 
 ### Data Access
-* python-awips model
-* python-awips surface obs
+* Siphon (TDS intro)
+* Siphon (catalogs basic)
+* Siphon (catalogs filtering)
+* Siphon (remote_access)
+* Siphon (remote_open)
+* Siphon (subset)
+* xarray (data access)
+* python-awips (access model output)
+* python-awips (surface obs access)
 
 ### Analysis
 * Scipy
-* xarray intermediate (aggregations and calculations)
+* xarray (aggregations)
+* xarray (calculations)
 
 ### Visualization
-* python-awips intro
-* python-awips maps database
+* python-awips (intro)
+* python-awips (maps database)
 
 ### Notebook Enhancements
 * Notebook widgets
