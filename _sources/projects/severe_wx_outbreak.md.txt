@@ -10,19 +10,28 @@ _description here_
 ## Related Training Notebooks
 
 ### Data Access
-* Siphon
-* xarray basics (data access)
+* Siphon (TDS intro)
+* Siphon (catalogs basic)
+* Siphon (catalogs filtering)
+* Siphon (remote_access)
+* Siphon (remote_open)
+* Siphon (subset)
+* xarray (data access)
 
 ### Analysis
-* MetPy Calculations
-* xarray basics (indexing, and interpolation)
-* Unit-aware operations (with MetPy & Pint)
-* xarray and MetPy
-* Soundings
+* MetPy (basic calculations)
+* MetPy (calculations for soundings)
+* MetPy (unit-aware calculations)
+* MetPy (with xarray)
+* Unit-aware operations (Pint)
+* xarray (indexing)
+* xarray (interpolation)
+* xarray (calculations)
 
 ### Visualization
-* python-awips maps database
+* python-awips (maps database)
+* python-awips (intro)
 * Declarative Plotting
-* Soundings
+* MetPy (SkewT)
 
 ## Related MetPy Monday Videos

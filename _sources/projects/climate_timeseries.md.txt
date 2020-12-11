@@ -12,7 +12,7 @@ A 'deeper analysis' piece would have them identify dates where fronts came throu
 ## Related Training Notebooks
 
 ### Data Access
-* Numpy reading text data
+* Numpy (csv data)
 
 ### Data Analysis
 * Numpy basics

@@ -11,14 +11,17 @@ Allows application of existing calculations and implementation of own calculatio
 ## Related Training Notebooks
 
 ### Data Access
-* xarray basics (data access)
+* xarray (data access)
 
 ### Analysis
-* xarray basics (indexing, and interpolation)
-* xarray intermediate (aggregations and calculations)
-* Unit-aware operations (with MetPy & Pint)
+* xarray (indexing)
+* xarray (interpolation)
+* xarray (aggregations)
+* xarray (calculations)
+* Unit-aware operations (Pint)
+* MetPy (with xarray)
 
 ### Visualization
-* Matplotlib basics
+* Matplotlib (basics)
 
 ## Related MetPy Monday Videos
