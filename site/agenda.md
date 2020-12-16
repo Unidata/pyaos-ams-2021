@@ -13,7 +13,7 @@ Each session will begin with a 10 minute overview, followed by a 15 minute, smal
 These sessions will take place in a Zoom meeting hosted by the American Meteorological Society.
 The following topics will be covered:
   * asynchronous workshop resources
-  * accessing into the jupyterhub server
+  * accessing the jupyterhub server
   * a tour of the jupyterhub environment:
     * exploring the interface and opening a notebook
     * executing notebook cells
