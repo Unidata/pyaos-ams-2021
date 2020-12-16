@@ -1,29 +1,38 @@
 Agenda
 ======
 
-## Saturday/Sunday (January 9th, 10th): Workshop kickoff
+## Sunday, January 10th, 2021 (A: 1:00 pm EST to 1:30 pm EST, B: 1:30 pm EST to 2:00 pm EST): Workshop kickoff
 
-Multiple, parallel sessions with the intent to bootstrap the workshop.
-These will be small group based (approximately 10 - 15 students) and short (about 15 minutes).
-Things to accomplish during this time:
-  * Say hello, tell them a little bit about Unidata, cover the general idea of the workshop
-  * Assign jupyterhub login information and make sure each student can get into the workshop environment.
-  * Cover the very basics of the jupyterhub environment:
-    * Exploring the interface and opening a notebook
-    * Executing cells
-    * Uploading an existing notebook / creating a new notebook
-  * Point them to a set of asynchronous workshop resources, which will include a list of project ideas for three skill levels: never programmed at all or no experience with python, basic knowledge of python, advanced python user. (these need to be better defined, for sure).
+We will offer two 30-minute sessions with the intent to kick-start the workshop.
+Each session will cover the same material, and each is limited to 100 participants.
+Interested students will need to register for this workshop using this Google Form [TBD].
+The only requirement is that you have a GitHub account prior to the workshop.
+No experience with GitHub or Python are necessary to participate!
 
-Participants will be working in the Jypyterhub environment throughout the week, so these small group sessions will be critical.
-It could also be a good time to encourage students to pair up into groups to work on the project together.
+Each session will begin with a 10 minute overview, followed by a 15 minute, small group (10 students or less per group) breakout session.
+These sessions will take place in a Zoom meeting hosted by the American Meteorological Society.
+The following topics will be covered:
+  * asynchronous workshop resources
+  * accessing the jupyterhub server
+  * a tour of the jupyterhub environment:
+    * exploring the interface and opening a notebook
+    * executing notebook cells
+    * creating a new notebook
+    * importing/exporting notebooks 
+  * where to go for help
+  * information about the workshop showcase
 
-## Throughout the week of AMS (January 9th, 2021 — January 14th, 2021): Workshop
+Participants will be working in a Unidata Science Gateway Jypyterhub environment throughout the week, so it is critical that these small group sessions are attended by those interested in participating in the workshop.
+Students are encouraged to pair up into small groups to work on the projects as a team, although it is possible to tackle projects solo.
 
-This will generally be a period of asynchronous exploration for the participants.
-We will hold multiple formal "office hour" sessions throughout the week to assist participants directly.
-While Unidata staff will be monitoring email/social media for questions, having the office hours will provide some structure to the otherwise nebulous nature of this period of the workshop.
-Engaging with students using something like Google Hangout is what I'm thinking for the office hour help sessions.
+## Throughout the week of AMS (January 10th — January 14th, 2021): Asynchronous Workshop
 
-## Thursday (January 14th, 2021): Workshop showcase
-At the end of the week, Unidata will host a virtual workshop showcase.
-This might involve hosting a website where we can publish student notebooks, providing space for real-time discussions during a set time (multiple Google Hangouts, Zoom with breakout rooms), etc.
+The week of AMS will largely be a period of asynchronous exploration.
+Workshop instructors will hold multiple formal "office hour" sessions throughout the week to assist participants directly as they progress through their workshop projects.
+Office hours will be held on a platform called AirMeet, where the first step in getting support is as easy as pulling up a chair at a virtual table (no, seriously, we have tables).
+While Unidata staff will be monitoring email/social media for questions, we hope the office hours will provide some structure to the otherwise nebulous nature of this period of the workshop.
+
+## Post AMS
+
+Support from the staff at Unidata does not stop at the end of the week!
+The same instructors you interact with at the workshop will be available after AMS through the [usual support channels offered by Unidata](https://www.unidata.ucar.edu/support/index.html#process), only now you will have a face to go with the help (and so will we!).
