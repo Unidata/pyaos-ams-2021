@@ -5,7 +5,7 @@ Agenda
 
 We will offer two 30-minute sessions with the intent to kick-start the workshop.
 Each session will cover the same material, and each is limited to 100 participants.
-Interested students will need to register for this workshop using [this Google Form](https://insert.link.here/yep).
+Interested students will need to register for this workshop using this Google Form [TBD].
 The only requirement is that you have a GitHub account prior to the workshop.
 No experience with GitHub or Python are necessary to participate!
 
