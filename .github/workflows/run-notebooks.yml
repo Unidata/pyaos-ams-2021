@@ -1,0 +1,47 @@
+name: Check Notebooks
+
+# We don't want pushes (or PRs) to gh-pages to kick anything off
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  Run:
+    name: ${{ matrix.os }} ${{ matrix.python-version }}
+    runs-on: ${{ matrix.os }}-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macOS, windows, ubuntu]
+
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v2
+
+    - name: Setup conda caching
+      uses: actions/cache@v2
+      with:
+        path: ~/conda_pkgs_dir
+        key: conda-tests-${{ runner.os }}-${{ matrix.python-version}}-${{ hashFiles('environment.yml') }}
+        restore-keys: |
+          conda-tests-${{ runner.os }}
+          conda-tests-
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        miniconda-version: "latest"
+        environment-file: environment.yml
+        activate-environment: pyaos-ams-2021
+        channel-priority: strict
+        show-channel-urls: true
+        # Needed for caching
+        use-only-tar-bz2: true
+
+    - name: Run Notebooks
+      run: jupyter nbconvert --ExecutePreprocessor.kernel_name=python3 --execute --inplace notebooks/*.ipynb
