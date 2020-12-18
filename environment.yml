@@ -2,14 +2,14 @@
  channels:
    - conda-forge
  dependencies:
-   - python>=3.6,<3.8
+   - python=3.9
    - numpy
    - matplotlib
    - cartopy
    - jupyter
    - metpy
    - siphon
-   - pandas<1.1.0
+   - pandas
    - pip
    - xarray
    - ipywidgets
