@@ -5,21 +5,8 @@ Resources
 
 ### Data Access
 
-* python-awips (access model output)
-
-  _add description_
-
-* python-awips (satellite data access)
-
-  _add description_
-
-* python-awips (surface obs access)
-
-  _add description_
-
-* python-awips (upper air obs)
-
-  _add description_
+* **python-awips - How to Access Data**   
+  This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the "grid" data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its [online documentation](http://unidata.github.io/python-awips/api/DataAccessLayer.html#) might be a helpful reference.
 
 * Siphon (TDS intro)
 
@@ -139,8 +126,19 @@ Resources
 * python-awips maps database
 
   _add description_
+  
+* python-awips (access model output)
 
-* python-awips intro
+  _add description_
+
+* python-awips (satellite data access)
+
+  _add description_
+
+* **python-awips - Working with Surface Obs**  
+  This notebook creates a colored temperature plot for North America using AWIPS METAR observations (datatype *obs*), similar to existing products in GEMPAK and CAVE. We will be accessing the data through an EDEX server and limiting what's returned based geographic extend, and specific parameters we're interested in.  We'll also be creating a color mapping and colorizing the surface data based on our mapping.  Finally we use matplotlib to plot and display the output.
+
+* python-awips (upper air obs)
 
   _add description_
 
