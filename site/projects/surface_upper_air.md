@@ -8,8 +8,8 @@ Declarative Surface/Upper Air Map
 This project aims to equip students with the skills needed to use MetPy's declarative plotting interface to generate surface and upper air maps. In successfully completing this project, students will gain experience using Siphon to access remote, satellite data from the THREDDS Data Server (TDS). Students will also learn how to process and display meteorological data using Python-AWIPS and Cartopy.
 
 ## Related Training Notebooks
-* [Surface Map: MSLP, Temperature, and Winds](https://unidata.github.io/python-training/gallery/mslp_temp_winds/)
-* [Upper-Air Observations on a Legacy DIFAX Chart](https://unidata.github.io/python-training/gallery/upperair_obs/)
+* [Surface Data with Siphon and MetPy](https://unidata.github.io/python-training/workshop/Surface_Data/surface-data-with-siphon-and-metpy/)
+* [Advanced StationPlots with Mesonet Data](https://unidata.github.io/python-training/workshop/Surface_Data/advanced-stationplots-with-mesonet-data/)
 
 ### Data Access
 * Siphon (TDS intro)
