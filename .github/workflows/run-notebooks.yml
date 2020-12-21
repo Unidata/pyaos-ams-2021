@@ -44,4 +44,4 @@ jobs:
         use-only-tar-bz2: true
 
     - name: Run Notebooks
-      run: jupyter nbconvert --ExecutePreprocessor.kernel_name=python3 --execute --inplace notebooks/*.ipynb
+      run: jupyter nbconvert --ExecutePreprocessor.kernel_name=python3 --execute --inplace notebooks/**/*.ipynb
