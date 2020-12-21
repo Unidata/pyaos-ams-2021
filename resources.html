@@ -201,18 +201,8 @@
 <div class="section" id="data-access">
 <h3>Data Access<a class="headerlink" href="#data-access" title="Permalink to this headline">¶</a></h3>
 <ul>
-<li><p>python-awips (access model output)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>python-awips (satellite data access)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>python-awips (surface obs access)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>python-awips (upper air obs)</p>
-<p><em>add description</em></p>
-</li>
+<li><p><strong>python-awips - How to Access Data</strong><br />
+This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the “grid” data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its <a class="reference external" href="http://unidata.github.io/python-awips/api/DataAccessLayer.html">online documentation</a> might be a helpful reference.</p></li>
 <li><p>Siphon (TDS intro)</p>
 <p><em>add description</em></p>
 </li>
@@ -315,7 +305,15 @@
 <li><p>python-awips maps database</p>
 <p><em>add description</em></p>
 </li>
-<li><p>python-awips intro</p>
+<li><p>python-awips (access model output)</p>
+<p><em>add description</em></p>
+</li>
+<li><p>python-awips (satellite data access)</p>
+<p><em>add description</em></p>
+</li>
+<li><p><strong>python-awips - Working with Surface Obs</strong><br />
+This notebook creates a colored temperature plot for North America using AWIPS METAR observations (datatype <em>obs</em>), similar to existing products in GEMPAK and CAVE. We will be accessing the data through an EDEX server and limiting what’s returned based geographic extend, and specific parameters we’re interested in.  We’ll also be creating a color mapping and colorizing the surface data based on our mapping.  Finally we use matplotlib to plot and display the output.</p></li>
+<li><p>python-awips (upper air obs)</p>
 <p><em>add description</em></p>
 </li>
 </ul>
@@ -369,7 +367,7 @@
   <div class="container">
     <p>
           &copy; Copyright 2020, Unidata. Development supported by National Science Foundation grant AGS-1901712.<br/>
-        Last updated on Dec 21, 2020 at 22:33:44.<br/>
+        Last updated on Dec 21, 2020 at 23:26:58.<br/>
         Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.3.1.<br/>
     </p>
   </div>
