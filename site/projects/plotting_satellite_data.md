@@ -13,6 +13,13 @@ If I were participating in the conference, I'd sign up for this workshop because
 
 ## Related Training Notebooks
 
+* [Plotting Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/plotting-satellite-data/)
+* [Declarative Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/declarative-satellite-data/)
+* [GOES Interactive Plot](https://unidata.github.io/python-training/workshop/Satellite_Data/goes-interactive-plot/)
+* [Satellite Animations](https://unidata.github.io/python-training/workshop/Satellite_Data/satellite-animations/)
+
+
+
 ### Data Access
 * Siphon (TDS intro)
 * Siphon (catalogs basic)
