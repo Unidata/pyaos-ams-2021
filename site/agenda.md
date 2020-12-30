@@ -12,7 +12,8 @@ create and the accounts are free: [GitHub](https://github.com/join).
 
 We will offer two 30-minute sessions with the intent to kick-start the workshop.
 Each session will cover the same material, and each is limited to 100 participants.
-Interested students will need to register for this workshop using this Google Form [TBD].
+Interested students will need to register for this workshop: see the registration link
+above. **The deadline to register is 8:00 pm EST on January 7th, 2021.**
 The only requirement is that you have a GitHub account prior to the workshop.
 No experience with GitHub or Python are necessary to participate!
 
@@ -35,9 +36,25 @@ Students are encouraged to pair up into small groups to work on the projects as 
 ## Asynchronous Workshop<br><span class="subhead">Throughout the week of AMS<br>(January 10th — January 14th, 2021)</span>
 
 The week of AMS will largely be a period of asynchronous exploration.
-Workshop instructors will hold multiple formal "office hour" sessions throughout the week to assist participants directly as they progress through their workshop projects.
-Office hours will be held on a platform called AirMeet, where the first step in getting support is as easy as pulling up a chair at a virtual table (no, seriously, we have tables).
-While Unidata staff will be monitoring email/social media for questions, we hope the office hours will provide some structure to the otherwise nebulous nature of this period of the workshop.
+The [GitHub Discussions](https://github.com/Unidata/pyaos-ams-2021/discussions) area of the repository is a great place to post questions and interact with other workshop participants asynchronously.
+Workshop instructors will hold multiple formal "office hours" sessions throughout the week to assist participants directly as they progress through their workshop projects.
+Office hours will be held on a platform called Airmeet, where the first step in getting
+support is as easy as pulling up a chair at a virtual table (no, seriously, we have
+tables).
+The office hour schedule is:
+  * Monday, January 11th from 12:00 pm EST - 1:00 pm EST
+  * Tuesday, January 12th from 12:00 pm EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
+  * Wednesday, January 12th from 12:00 pm EST - 1:00 pm EST
+  * Thursday, January 12th from 12:00 pm EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
+  * Friday, January 12th from 12:00 pm EST - 1:00 pm EST
+
+While Unidata staff will be monitoring email/social media for questions, we hope the
+office hours will provide some structure to the otherwise nebulous nature of this period
+of the workshop.
+
+Office hours are also posted on the [Unidata Virtual AMS Booth
+page](https://www.unidata.ucar.edu/2021AMS). During office hours, you can [join the Airmeet video conference](https://www.airmeet.com/e/c30c2b30-4ab6-11eb-ae1f-335a915d8752)
+(or click the big button on the Unidata booth page).
 
 ## Post AMS
 
