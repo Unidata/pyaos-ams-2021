@@ -3,6 +3,14 @@
    font-family: Poppins, sans-serif;
  }
 
+ .subhead {
+   font-size:70%;
+ }
+
+ .nav-link > span.subhead  {
+   display:none;
+ }
+
 /* Unidata header color */
 .bg-unidata {
     background-color: #06778F;
