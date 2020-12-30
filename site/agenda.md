@@ -3,18 +3,18 @@ Agenda
 
 ## Registration<br><span class="subhead">Complete by Thursday, January 7th, 2021</span>
 
-Students interested in joining this workshop will need to
-[register](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HYyluHEZCG80RV2o_M1eSPHROcRt2A/viewform?usp=sf_link)
-in advance.  We'll need your GitHub user ID in order to provision the Jupyterhub resources
-you'll be using. If you don't already have a GitHub ID yet, don't worry — they're easy to
-create and the accounts are free: [GitHub](https://github.com/join).
+Students interested in joining this workshop will need to [register](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HYyluHEZCG80RV2o_M1eSPHROcRt2A/viewform?usp=sf_link) in advance.
+We'll need your GitHub user ID in order to provision the Jupyterhub resources you'll be using.
+If you don't already have a GitHub ID yet, don't worry — they're easy to create and the accounts are free: [GitHub](https://github.com/join).
 
 ## Workshop Kickoff<br><span class="subhead">Sunday, January 10th, 2021<br>(Session A: 1:00 pm EST to 1:30 pm EST,<br>Session B: 1:30 pm EST to 2:00 pm EST)</span>
 
 We will offer two 30-minute sessions with the intent to kick-start the workshop.
 Each session will cover the same material, and each is limited to 100 participants.
-Interested students will need to register for this workshop using [this Google Form](https://forms.gle/n1HPuQK7hBPG43AU9).
+Students interested in joining this workshop will need to [register](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HYyluHEZCG80RV2o_M1eSPHROcRt2A/viewform?usp=sf_link) in advance.
+
 **The deadline to register is 8:00 pm EST on January 7th, 2021**
+
 The only requirement is that you have a GitHub account prior to the workshop.
 No experience with GitHub or Python are necessary to participate!
 
