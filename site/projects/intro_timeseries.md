@@ -11,7 +11,7 @@ Students will learn the basics of Numpy and Matplotlib with an eye towards creat
 Potentially include Pandas (e.g. basic dataframes, block averages, moving window averages)?
 
 ## Related Training Notebooks
-* [Basic Time Series Plotting](https://unidata.github.io/python-training/workshop/Time_Series/basic-time-series-plotting/)
+
 
 ### Analysis
 * Numpy (basics)
@@ -20,6 +20,9 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 ### Visualization
 * Matplotlib (basics)
 * Matplotlib (intermediate)
+
+## Related Comprehensive Notebooks
+* [Basic Time Series Plotting](https://unidata.github.io/python-training/workshop/Time_Series/basic-time-series-plotting/)
 
 ## Related MetPy Monday Videos
 * [MetPy Mondays #54 - NDBC Time Series with Siphon](https://youtu.be/ovqlYlI7l5A)
