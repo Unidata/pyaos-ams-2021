@@ -10,11 +10,6 @@ This project seeks to enhance your current skillset by instructing you on how to
 
 ## Related Training Notebooks
 
-* [Plotting Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/plotting-satellite-data/)
-* [Declarative Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/declarative-satellite-data/)
-* [GOES Interactive Plot](https://unidata.github.io/python-training/workshop/Satellite_Data/goes-interactive-plot/)
-* [Satellite Animations](https://unidata.github.io/python-training/workshop/Satellite_Data/satellite-animations/)
-
 
 
 ### Data Access
@@ -32,6 +27,12 @@ This project seeks to enhance your current skillset by instructing you on how to
 * Cartopy (intermediate)
 * python-awips (intro)
 * python-awips (maps database)
+
+## Related Comprehensive Notebooks
+* [Plotting Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/plotting-satellite-data/)
+* [Declarative Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/declarative-satellite-data/)
+* [GOES Interactive Plot](https://unidata.github.io/python-training/workshop/Satellite_Data/goes-interactive-plot/)
+* [Satellite Animations](https://unidata.github.io/python-training/workshop/Satellite_Data/satellite-animations/)
 
 ## Related MetPy Monday Videos
 * [MetPy Mondays #44 - Satellite Data with CLASS Part 1 (1 of 8)](https://youtu.be/b2Rq605ev1c)
