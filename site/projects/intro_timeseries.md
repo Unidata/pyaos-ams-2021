@@ -15,7 +15,7 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 
 ### Analysis
 * Numpy (basics)
-* Pandas (basics)
+* [Pandas (basics)] (https://github.com/Unidata/pyaos-ams-2021/blob/master/notebooks/pandas.ipynb)
 
 ### Visualization
 * Matplotlib (basics)

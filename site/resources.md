@@ -45,9 +45,9 @@ Resources
 
   _add description_
 
-* Pandas (basics)
+* [Pandas (basics)] (https://github.com/Unidata/pyaos-ams-2021/blob/master/notebooks/pandas.ipynb)
 
-  _add description_
+  This notebook is an introduction to timeseries analysis and plotting using pandas.
 
 * xarray (data access)
 
