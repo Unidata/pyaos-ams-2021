@@ -5,13 +5,12 @@ Plotting Satellite Data
 
 ## Description
 
-The "Plotting Satellite Data" Python training workshop is a great choice.
-Students can learn how to find Sat data and use it to create visualizations.
-Likely would be most useful broken up into multiple notebooks based on Bite-sized trainings.
-This is a good idea because students may have a difficult time or minimal experience finding data or creating appealing graphs.
-If I were participating in the conference, I'd sign up for this workshop because I would think that this is a useful skill that could help me in a related career field.
+This project seeks to enhance your current skillset by instructing you on how to create visualizations using satellite data. To initiate this project, you will learn how to use Siphon to browse through the THREDDS Data Server (TDS) catalog and locate satellite data. Next, you will parse the data using Siphon and employ the XArray accessor to retrieve the remote data. The subsequent section will cover how to use CartoPy and matplotlib to produce unique plots. After this, you'll be prepared to complete some more sophisticated tasks like generating interactive and animated plots.
+
 
 ## Related Training Notebooks
+
+
 
 ### Data Access
 * Siphon (TDS intro)
@@ -29,4 +28,14 @@ If I were participating in the conference, I'd sign up for this workshop because
 * python-awips (intro)
 * python-awips (maps database)
 
+## Related Comprehensive Notebooks
+* [Plotting Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/plotting-satellite-data/)
+* [Declarative Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/declarative-satellite-data/)
+* [GOES Interactive Plot](https://unidata.github.io/python-training/workshop/Satellite_Data/goes-interactive-plot/)
+* [Satellite Animations](https://unidata.github.io/python-training/workshop/Satellite_Data/satellite-animations/)
+
 ## Related MetPy Monday Videos
+* [MetPy Mondays #44 - Satellite Data with CLASS Part 1 (1 of 8)](https://youtu.be/b2Rq605ev1c)
+* [MetPy Mondays #69 - Declarative Plotting](https://youtu.be/mbxE2ovXx9M)
+* [MetPy Mondays #106 - Choosing a colortable for your data](https://youtu.be/h-RL7zza_yM)
+
