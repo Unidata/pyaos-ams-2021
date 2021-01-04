@@ -12,6 +12,7 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 
 ## Related Training Notebooks
 
+
 ### Analysis
 * Numpy (basics)
 * Pandas (basics)
@@ -20,4 +21,8 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 * Matplotlib (basics)
 * Matplotlib (intermediate)
 
+## Related Comprehensive Notebooks
+* [Basic Time Series Plotting](https://unidata.github.io/python-training/workshop/Time_Series/basic-time-series-plotting/)
+
 ## Related MetPy Monday Videos
+* [MetPy Mondays #54 - NDBC Time Series with Siphon](https://youtu.be/ovqlYlI7l5A)
