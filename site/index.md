@@ -9,8 +9,9 @@ projects/index
 resources
 showcase
 ```
-<!-- The empty image line "![]()" is so the html aligns the imbedded images properly with the title.  It's really finicky and not exactly how I'd like it, but it renders okay. -->
-![]()
+<!-- The empty line is so the html aligns the imbedded images properly with the title.  It's really finicky and not exactly how I'd like it, but it renders okay. -->
+<br>
+
 <img style="float:right;width:100px;" src="https://www.unidata.ucar.edu/blog_content/images/logos/ams_2021.png">
 <img style="float:right;width:100px;" src="https://www.unidata.ucar.edu/blog_content/images/logos/python-logo.png">
 
