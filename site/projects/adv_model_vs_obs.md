@@ -32,6 +32,6 @@ Introduce notebook widgets.
 * python-awips (maps database)
 
 ### Notebook Enhancements
-* Notebook widgets
+* [Notebook widgets](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb)
 
 ## Related MetPy Monday Videos
