@@ -200,7 +200,7 @@
 <div class="section" id="data-access">
 <h3>Data Access<a class="headerlink" href="#data-access" title="Permalink to this headline">¶</a></h3>
 <ul>
-<li><p><strong>python-awips - How to Access Data</strong><br />
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb"><strong>python-awips: How to Access Data</strong></a><br />
 This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the “grid” data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its <a class="reference external" href="http://unidata.github.io/python-awips/api/DataAccessLayer.html">online documentation</a> might be a helpful reference.</p></li>
 <li><p>Siphon (TDS intro)</p>
 <p><em>add description</em></p>
@@ -208,7 +208,7 @@ This notebook covers the relevant methods for accessing EDEX and investigating w
 <li><p>Siphon (catalogs basic)</p>
 <p><em>add description</em></p>
 </li>
-<li><p>Siphon (catalogs filtering))</p>
+<li><p>Siphon (catalogs filtering)</p>
 <p><em>add description</em></p>
 </li>
 <li><p>Siphon (remote_open)</p>
@@ -292,29 +292,23 @@ This notebook covers the relevant methods for accessing EDEX and investigating w
 <li><p>Declarative Plotting</p>
 <p><em>add description</em></p>
 </li>
-<li><p>Matplotlib (basics)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>Matplotlib (intermediate)</p>
-<p><em>add description</em></p>
-</li>
+<li><p><strong>Matplotlib: Basics</strong><br />
+This notebook covers the basics of how to use <a class="reference external" href="https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.html">matplotlib.pyplot</a>.  It describes the two main parts of the plot: the figure and axes.  The notebook walks through how to create simple line and scatter plots, how to modify the axes and titles, how to draw multiple data sets on the same graph, and how to alter the display settings for the data.</p></li>
+<li><p><strong>Matplotlib: Intermediate</strong><br />
+This notebook builds upon the Matlibplot: Basics notebook and details how to create more complicated plots.  It starts by describing how to draw multiple plots in one figure.  It also covers the scatter function and how it can be used to control the colorization of individual scatter points.  Finally, the notebook gives an introducton to imshow, contour, and contourf and how they can be used to visualize data.</p></li>
 <li><p>MetPy (SkewT)</p>
 <p><em>add description</em></p>
 </li>
-<li><p>python-awips maps database</p>
-<p><em>add description</em></p>
-</li>
-<li><p>python-awips (access model output)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>python-awips (satellite data access)</p>
-<p><em>add description</em></p>
-</li>
-<li><p><strong>python-awips - Working with Surface Obs</strong><br />
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb"><strong>python-awips: Working with the Maps and Topography Databases</strong></a><br />
+This notebook covers how to use the AWIPS Maps Database to access GIS objects, which are returned as Shapely geometries (Polygon, Point, MultiLineString, etc.) and can be easily plotted by Matplotlib, Cartopy, MetPy, and other packages.  It shows how to use maps and topo data types to obtain GIS data from the AWIPS databases.  Finally, it walks through the steps of plotting data to create a very informative map of a County Warning Area.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithModels.ipynb"><strong>python-awips: Working with Models</strong></a><br />
+This notebook creates a colorized plot for the continental US of model data (grib).  It explains how to access the model data from an EDEX server and limit the data returned by using model specific parameters. The notebook covers how to use both pcolormesh and contourf to create colorized plots, and compare the differences between the two.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSatelliteData.ipynb"><strong>python-awips: Working with Satellite Data</strong></a><br />
+This notebook investigates what satellite data is available from an EDEX server.  It describes how to define map properties in a function that can be used to plot multiple images.  It then walks through how to retreive Mesoscale GOES satellite grid data from an EDEX server.  Finally, it uses matplotlib pcolormesh to plot the colorized images with a colorbar.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSurfaceObs.ipynb"><strong>python-awips: Working with Surface Obs</strong></a><br />
 This notebook creates a colored temperature plot for North America using AWIPS METAR observations (datatype <em>obs</em>), similar to existing products in GEMPAK and CAVE. We will be accessing the data through an EDEX server and limiting what’s returned based geographic extend, and specific parameters we’re interested in.  We’ll also be creating a color mapping and colorizing the surface data based on our mapping.  Finally we use matplotlib to plot and display the output.</p></li>
-<li><p>python-awips (upper air obs)</p>
-<p><em>add description</em></p>
-</li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithUpperAirObs.ipynb"><strong>python-awips: Working with Upper Air Obs</strong></a><br />
+This notebook shows how to retreive upper air vertical profile data from EDEX server.  It uses EDEX to get the pressure, temperature, dewpoint lines and wind profile data for the Upper Air observation.  Finally, it describes how to plot a Skew-T/Log-P plot with Hodograph using Matplotlib and Metpy.</p></li>
 </ul>
 </div>
 <div class="section" id="notebook-enhancements">
@@ -366,7 +360,7 @@ This notebook creates a colored temperature plot for North America using AWIPS M
   <div class="container">
     <p>
           &copy; Copyright 2020, Unidata. Development supported by National Science Foundation grant AGS-1901712.<br/>
-        Last updated on Jan 06, 2021 at 17:07:39.<br/>
+        Last updated on Jan 06, 2021 at 23:31:51.<br/>
         Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.4.2.<br/>
     </p>
   </div>
