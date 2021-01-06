@@ -19,8 +19,7 @@ Introduce notebook widgets.
 * Siphon (remote_open)
 * Siphon (subset)
 * xarray (data access)
-* python-awips (access model output)
-* python-awips (surface obs access)
+* [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Analysis
 * Scipy
@@ -28,8 +27,9 @@ Introduce notebook widgets.
 * xarray (calculations)
 
 ### Visualization
-* python-awips (intro)
-* python-awips (maps database)
+* [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
+* [python-awips: Working with Models](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithModels.ipynb)
+* [python-awips: Working with Surface Obs](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSurfaceObs.ipynb)
 
 ### Notebook Enhancements
 * [Notebook widgets](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb)
