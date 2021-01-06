@@ -139,7 +139,7 @@ Resources
   This notebook shows how to retreive upper air vertical profile data from EDEX server.  It uses EDEX to get the pressure, temperature, dewpoint lines and wind profile data for the Upper Air observation.  Finally, it describes how to plot a Skew-T/Log-P plot with Hodograph using Matplotlib and Metpy.
 
 ### Notebook Enhancements
-* Notebook widgets
+* [Notebook widgets](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb)
 
   This notebook explores various interactive [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/user_guide.html) and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.
 
