@@ -45,7 +45,7 @@ Resources
 
   _add description_
 
-* [Pandas (basics)] (https://github.com/Unidata/pyaos-ams-2021/blob/master/notebooks/pandas.ipynb)
+* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/pandas.ipynb)
 
   This notebook is an introduction to timeseries analysis and plotting using pandas.
 
