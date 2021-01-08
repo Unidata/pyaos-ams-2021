@@ -17,8 +17,7 @@ This project aims to equip students with the skills needed to use MetPy's declar
 * Siphon (remote_access)
 * Siphon (remote_open)
 * Siphon (subset)
-* python-awips (surface obs)
-* python-awips (upper air obs)
+* [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Visualization
 * [Declarative Plotting](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Declarative-Example.ipynb)
@@ -26,6 +25,9 @@ This project aims to equip students with the skills needed to use MetPy's declar
 * python-awips (maps database)
 * Cartopy (basic)
 * Cartopy (intermediate)
+* [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
+* [python-awips: Working with Surface Obs](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSurfaceObs.ipynb)
+* [python-awips: Working with Upper Air Obs](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithUpperAirObs.ipynb)
 
 ## Related Training Notebooks
 * [Surface Data with Siphon and MetPy](https://unidata.github.io/python-training/workshop/Surface_Data/surface-data-with-siphon-and-metpy/)

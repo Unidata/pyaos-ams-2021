@@ -19,14 +19,14 @@ This project seeks to enhance your current skillset by instructing you on how to
 * Siphon (remote_access)
 * Siphon (remote_open)
 * Siphon (subset)
-* python-awips (satellite data access)
+* [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Visualization
 * Matplotlib (intermediate)
 * Cartopy (basic)
 * Cartopy (intermediate)
-* python-awips (intro)
-* python-awips (maps database)
+* [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
+* [python-awips: Working with Satellite Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSatelliteData.ipynb)
 
 ## Related Comprehensive Notebooks
 * [Plotting Satellite Data](https://unidata.github.io/python-training/workshop/Satellite_Data/plotting-satellite-data/)
@@ -38,4 +38,3 @@ This project seeks to enhance your current skillset by instructing you on how to
 * [MetPy Mondays #44 - Satellite Data with CLASS Part 1 (1 of 8)](https://youtu.be/b2Rq605ev1c)
 * [MetPy Mondays #69 - Declarative Plotting](https://youtu.be/mbxE2ovXx9M)
 * [MetPy Mondays #106 - Choosing a colortable for your data](https://youtu.be/h-RL7zza_yM)
-

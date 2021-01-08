@@ -256,3 +256,9 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 # texinfo_no_detailmenu = False
+
+# do not check nbviewer links due to 404 problems (otherwise, we might need
+# to wait a day or so for their cache to update in order to get a PR to pass)
+# TODO: REMOVE ONCE NOTEBOOKS ARE RENDERED TO HTML AND DIRECTLY INCLUDED IN
+# THE AS PART OF THE BUILD
+linkcheck_ignore = [r'https://nbviewer.jupyter.org/']
