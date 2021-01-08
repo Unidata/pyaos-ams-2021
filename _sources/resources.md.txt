@@ -33,21 +33,21 @@ Resources
   _add description_
 
 ### Data Analysis
-* Numpy (basics)
+* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
 
-  _add description_
+  This notebook highlights pythonic programing with numpy arrays as opposed to lists.
 
-* Numpy (csv data)
+* [Pandas and Numpy (csv data)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)
 
-  _add description_
+  This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
 * Scipy
 
   _add description_
 
-* Pandas (basics)
+* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
 
-  _add description_
+  This notebook is an introduction to timeseries analysis and plotting using pandas.
 
 * xarray (data access)
 
