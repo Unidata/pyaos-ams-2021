@@ -32,7 +32,7 @@ _description here_
 * Cross Section Analysis
 
 ### Visualization
-* Cartopy (basic)
+* [Cartopy (basic)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)
 * Cartopy (intermediate)
 
 ## Related MetPy Monday Videos
