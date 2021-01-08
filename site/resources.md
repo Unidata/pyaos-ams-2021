@@ -33,11 +33,11 @@ Resources
   _add description_
 
 ### Data Analysis
-* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
+* [Numpy (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
 
   This notebook highlights pythonic programing with numpy arrays as opposed to lists.
 
-* [Pandas and Numpy (csv data)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)
+* [Pandas and Numpy (csv data)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)
 
   This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
@@ -45,7 +45,7 @@ Resources
 
   _add description_
 
-* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
+* [Pandas (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
 
   This notebook is an introduction to timeseries analysis and plotting using pandas.
 
