@@ -29,4 +29,6 @@ RUN conda install --quiet --yes \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
 
+    COPY update_workshop_material.ipynb /
+
 USER $NB_UID
