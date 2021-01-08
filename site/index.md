@@ -18,7 +18,7 @@ showcase
 Unidata AMS 2021 Python Workshop
 ================================
 
-**Students!:**
+## Students!
 * Are you looking to make the transition to Python but unsure of where to start? 
 * Do you already know Python but want to see atmospheric science specific applications? 
 * Are you looking for data? 
@@ -31,6 +31,8 @@ If so, then please join us for a *virtual* hands-on AMS Student Conference Pytho
 
 --- 
 
+## Join us!
+
 **To join us**: begin by [**registering**](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HYyluHEZCG80RV2o_M1eSPHROcRt2A/viewform) for the workshop. 
 * We'll need your GitHub user ID in order to provision the cloud resources you'll use for the workshop. 
 * If you don't have a GitHub ID yet, don't worry — they're easy to create and the accounts are free. Just click [here](https://github.com/join) to create one.
@@ -40,6 +42,8 @@ Please [register](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HY
 ```
 
 --- 
+
+## Kick off
 
 Things will kick off with **two identical orientation sessions** during the AMS Student Conference:
 
@@ -52,10 +56,29 @@ Things will kick off with **two identical orientation sessions** during the AMS 
 
 ---
 
+## Projects
+
 After the orientation, you'll choose a **project** to work on over the course of the week.  Check out a list of example projects that have been posted [**here**](projects/index.md).
+
+We've tried to come up with some projects for each level of python experience (beginner, intermediate, and advanced).  
+
+```{note}
+Please feel free to come up with **your own project idea**, you are not limited to the ones we've brainstormed!
+```
+
+---
+
+## Remote Help
 
 <!-- For some reason, sphynx or our theme does not like linking to a subsection in another page: ie. (agenda.md#post-ams), so I am using the active webpage link instead to link to the subsection for the office hours below. -->
 Remote **follow-up help** will be available.  Take a look at the [Asynchronous Workshop section of our **agenda**](https://unidata.github.io/pyaos-ams-2021/agenda.html#asynchronous-workshop-br-span-class-subhead-throughout-the-week-of-ams-br-january-10th-january-14th-2021-span) to learn about how and when to attend our "office hours”. Workshop sessions and office hours will be staffed by an elite team of student volunteers who have signed up to help show you how using Python can benefit your science.
 
+```{tip}
+In addition to the virtual office hours, we also have a Github repository set up to support our workshop.  Please feel free to join in the [**discussions page**](https://github.com/Unidata/pyaos-ams-2021/discussions) if you have any questions or are looking for help.
+```
+
+For a detailed look at all the resources backing our workshop, checkout our [github repository](https://github.com/Unidata/pyaos-ams-2021) for yourself.
+
+---
 
 We hope you'll join us for the workshop!
