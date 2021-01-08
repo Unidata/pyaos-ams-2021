@@ -78,9 +78,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
 
   _add description_
 
-* MetPy (basic calculations)
+* [**MetPy (basic calculations)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
 
-  _add description_
+  This notebook provides a basic introduction to meteorological calculations using MetPy.
 
 * MetPy (calculations for soundings)
 
