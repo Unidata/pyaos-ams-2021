@@ -13,9 +13,9 @@ _description here_
 * Siphon (TDS intro)
 * Siphon (catalogs basic)
 * Siphon (catalogs filtering)
-* Siphon (remote_access)
-* Siphon (remote_open)
-* Siphon (subset)
+* [Siphon (remote_access)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteAccess.ipynb)
+* [Siphon (remote_open)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)
+* [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
 
 ### Analysis
 * xarray (data access)
