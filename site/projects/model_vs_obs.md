@@ -29,8 +29,8 @@ Highlight ways to enhance timeseries charts (time formatting on x-axis, latex la
 * xarray (interpolation)
 
 ### Visualization
-* Matplotlib (basics)
-* Matplotlib (intermediate)
+* [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
+* [Matplotlib: Intermediate](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)
 * [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
 * [python-awips: Working with Models](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithModels.ipynb)
 * [python-awips: Working with Surface Obs](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSurfaceObs.ipynb)
