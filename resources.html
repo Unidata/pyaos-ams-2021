@@ -225,6 +225,18 @@
                 
   <div class="section" id="resources">
 <h1>Resources<a class="headerlink" href="#resources" title="Permalink to this headline">¶</a></h1>
+<!--
+
+When adding your link to a bullet, make sure to use the following format:
+
+* [**title**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/<rest-of-path>.html)<space><space>
+  Add description here
+
+Note the two empty spaces after the closing parenthesis (i.e. <space><space>).
+This is critical, as lines that end with two empty space characters will be rendered as a <br> html element.
+The end result is a tighter vertical spacing between the opening line of the bullet point (the link) and the notebook description.
+
+-->
 <div class="section" id="complete-list-of-training-notebooks">
 <h2>Complete list of training notebooks<a class="headerlink" href="#complete-list-of-training-notebooks" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="data-access">
@@ -252,18 +264,15 @@ This notebook demonstrates how to use Siphon to subset and download data using t
 <div class="section" id="data-analysis">
 <h3>Data Analysis<a class="headerlink" href="#data-analysis" title="Permalink to this headline">¶</a></h3>
 <ul>
-<li><p>[Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)</p>
-<p>This notebook highlights pythonic programing with numpy arrays as opposed to lists.</p>
-</li>
-<li><p>[Pandas and Numpy (csv data)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)</p>
-<p>This notebook uses pandas and numpy to read and manipulate data from a csv file.</p>
-</li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb"><strong>Numpy (basics)</strong></a><br />
+This notebook highlights pythonic programing with numpy arrays as opposed to lists.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb"><strong>Pandas and Numpy (csv data)</strong></a><br />
+This notebook uses pandas and numpy to read and manipulate data from a csv file.</p></li>
 <li><p>Scipy</p>
 <p><em>add description</em></p>
 </li>
-<li><p>[Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)</p>
-<p>This notebook is an introduction to timeseries analysis and plotting using pandas.</p>
-</li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb"><strong>Pandas (basics)</strong></a><br />
+This notebook is an introduction to timeseries analysis and plotting using pandas.</p></li>
 <li><p>xarray (data access)</p>
 <p><em>add description</em></p>
 </li>
@@ -340,10 +349,9 @@ This notebook shows how to retreive upper air vertical profile data from EDEX se
 </div>
 <div class="section" id="notebook-enhancements">
 <h3>Notebook Enhancements<a class="headerlink" href="#notebook-enhancements" title="Permalink to this headline">¶</a></h3>
-<ul>
-<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb">Notebook widgets</a></p>
-<p>This notebook explores various interactive <a class="reference external" href="https://ipywidgets.readthedocs.io/en/stable/user_guide.html">Jupyter Widgets</a> and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.</p>
-</li>
+<ul class="simple">
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb">Notebook widgets</a><br />
+This notebook explores various interactive <a class="reference external" href="https://ipywidgets.readthedocs.io/en/stable/user_guide.html">Jupyter Widgets</a> and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.</p></li>
 </ul>
 </div>
 </div>
@@ -387,7 +395,7 @@ This notebook shows how to retreive upper air vertical profile data from EDEX se
   <div class="container">
     <p>
           &copy; Copyright 2020, Unidata. Development supported by National Science Foundation grant AGS-1901712.<br/>
-        Last updated on Jan 09, 2021 at 16:38:51.<br/>
+        Last updated on Jan 09, 2021 at 17:45:26.<br/>
         Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.4.2.<br/>
     </p>
   </div>

@@ -14,8 +14,8 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 
 
 ### Analysis
-* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
-* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
+* [Numpy (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
+* [Pandas (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
 
 ### Visualization
 * [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
