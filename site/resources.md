@@ -108,8 +108,7 @@ Resources
   _add description_
 
 * Declarative Plotting
-
-  _add description_
+  This notebook provides an overview on how to use the declarative syntax within MetPy to create satellite, surface, upper-air, and model data maps. MetPy's METAR parsing functionality is also utilized in this tutorial, along with data smoothing methods. Another useful resource for those interested in learning more about the declarative syntax is the [declarative tutorial on MetPy's website](https://unidata.github.io/MetPy/latest/tutorials/declarative_tutorial.html)
 
 * Matplotlib (basics)
 
