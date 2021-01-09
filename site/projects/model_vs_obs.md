@@ -23,8 +23,8 @@ Highlight ways to enhance timeseries charts (time formatting on x-axis, latex la
 
 
 ### Analysis
-* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
-* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)]
+* [Numpy (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
+* [Pandas (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
 * xarray (indexing)
 * xarray (interpolation)
 

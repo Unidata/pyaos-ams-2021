@@ -1,11 +1,22 @@
 Resources
 =========
+<!--
 
+When adding your link to a bullet, make sure to use the following format:
+
+* [**title**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/<rest-of-path>.html)<space><space>
+  Add description here
+
+Note the two empty spaces after the closing parenthesis (i.e. <space><space>).
+This is critical, as lines that end with two empty space characters will be rendered as a <br> html element.
+The end result is a tighter vertical spacing between the opening line of the bullet point (the link) and the notebook description.
+
+-->
 ## Complete list of training notebooks
 
 ### Data Access
 
-* [**python-awips: How to Access Data**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)   
+* [**python-awips: How to Access Data**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)  
   This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the "grid" data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its [online documentation](http://unidata.github.io/python-awips/api/DataAccessLayer.html#) might be a helpful reference.
 
 * Siphon (TDS intro)
@@ -30,20 +41,17 @@ Resources
   This notebook demonstrates how to use Siphon to subset and download data using the NetcdfSubset service (NCSS). NCSS supports coordinate-based subsetting, i.e. selecting data by latitude, longitude, time, etc.
 
 ### Data Analysis
-* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
-
+* [**Numpy (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)  
   This notebook highlights pythonic programing with numpy arrays as opposed to lists.
 
-* [Pandas and Numpy (csv data)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)
-
+* [**Pandas and Numpy (csv data)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)  
   This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
 * Scipy
 
   _add description_
 
-* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
-
+* [**Pandas (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)  
   This notebook is an introduction to timeseries analysis and plotting using pandas.
 
 * xarray (data access)
@@ -134,8 +142,7 @@ Resources
   This notebook shows how to retreive upper air vertical profile data from EDEX server.  It uses EDEX to get the pressure, temperature, dewpoint lines and wind profile data for the Upper Air observation.  Finally, it describes how to plot a Skew-T/Log-P plot with Hodograph using Matplotlib and Metpy.
 
 ### Notebook Enhancements
-* [Notebook widgets](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb)
-
+* [Notebook widgets](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb)  
   This notebook explores various interactive [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/user_guide.html) and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.
 
 ## Links to other various Python resources
