@@ -94,9 +94,9 @@ Resources
 
   _add description_
 
-* Isentropic Analysis
+* [Isentropic Analysis](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb)
 
-  _add description_
+  Provides a basic description and example of Isentropic analysis techniques.
 
 ### Visualization
 * Cartopy (basic)
@@ -123,7 +123,7 @@ Resources
 
 * [**python-awips: Working with the Maps and Topography Databases**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)  
   This notebook covers how to use the AWIPS Maps Database to access GIS objects, which are returned as Shapely geometries (Polygon, Point, MultiLineString, etc.) and can be easily plotted by Matplotlib, Cartopy, MetPy, and other packages.  It shows how to use maps and topo data types to obtain GIS data from the AWIPS databases.  Finally, it walks through the steps of plotting data to create a very informative map of a County Warning Area.
-  
+
 * [**python-awips: Working with Models**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithModels.ipynb)  
   This notebook creates a colorized plot for the continental US of model data (grib).  It explains how to access the model data from an EDEX server and limit the data returned by using model specific parameters. The notebook covers how to use both pcolormesh and contourf to create colorized plots, and compare the differences between the two.
 
