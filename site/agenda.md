@@ -53,8 +53,12 @@ office hours will provide some structure to the otherwise nebulous nature of thi
 of the workshop.
 
 Office hours are also posted on the [Unidata Virtual AMS Booth
-page](https://www.unidata.ucar.edu/2021AMS). During office hours, you can [join the Airmeet video conference](https://www.airmeet.com/e/c30c2b30-4ab6-11eb-ae1f-335a915d8752)
+page](https://www.unidata.ucar.edu/2021AMS). 
+
+```{important}
+During office hours, you can [**join the Airmeet video conference**](https://www.airmeet.com/e/c30c2b30-4ab6-11eb-ae1f-335a915d8752)
 (or click the big button on the Unidata booth page).
+```
 
 ## Post AMS
 

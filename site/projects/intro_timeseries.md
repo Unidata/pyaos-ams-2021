@@ -14,12 +14,12 @@ Potentially include Pandas (e.g. basic dataframes, block averages, moving window
 
 
 ### Analysis
-* [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
-* [Pandas (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
+* [Numpy (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
+* [Pandas (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)
 
 ### Visualization
-* Matplotlib (basics)
-* Matplotlib (intermediate)
+* [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
+* [Matplotlib: Intermediate](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)
 
 ## Related Comprehensive Notebooks
 * [Basic Time Series Plotting](https://unidata.github.io/python-training/workshop/Time_Series/basic-time-series-plotting/)
