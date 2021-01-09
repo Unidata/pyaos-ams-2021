@@ -19,7 +19,7 @@ _description here_
 * xarray (data access)
 
 ### Analysis
-* MetPy (basic calculations)
+* [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
 * MetPy (calculations for soundings)
 * MetPy (unit-aware calculations)
 * MetPy (with xarray)
