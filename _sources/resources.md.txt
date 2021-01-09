@@ -20,17 +20,14 @@ Resources
 
   _add description_
 
-* Siphon (remote_open)
+* [**Siphon (remote_open)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)  
+  This notebook demonstrates the Siphon `remote_open` function, which opens a TDS Catalog remote dataset for random access, and provides examples of interacting with the returned file-like object.
 
-  _add description_
+* [**Siphon (remote_access)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteAccess.ipynb)  
+  This notebook covers opening, inspecting, subsetting, and plotting a TDS dataset using Siphon's `remote_access` method.
 
-* Siphon (remote_access)
-
-  _add description_
-
-* Siphon (subset)
-
-  _add description_
+* [**Siphon (subset)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)  
+  This notebook demonstrates how to use Siphon to subset and download data using the NetcdfSubset service (NCSS). NCSS supports coordinate-based subsetting, i.e. selecting data by latitude, longitude, time, etc.
 
 ### Data Analysis
 * [Numpy (basics)] (https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)
