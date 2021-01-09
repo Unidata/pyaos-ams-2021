@@ -9,7 +9,12 @@ Access your AMS 2021 Python Workshop JupyterHub learning environment here: **pla
 
 To meet the educational objectives of this workshop, we will be employing Jupyter and JupyterHub computational notebook technologies hosted on the [Unidata Science Gateway](https://science-gateway.unidata.ucar.edu/ "Unidata Science Gateway"). Jupyter notebooks enable interactive Python code development supplemented with explanatory text and figures right in your web browser. No special software is necessary. All you need to do as a workshop attendee to access your tutorial workspace is navigate to **place-holder** and login with your GitHub credentials. (A free GitHub account can be obtain [**here**](https://github.com/join)). Once logged in, Unidata staff have configured your workspace to ensure you have a smooth workshop experience. Your instructors will guide you through the educational Jupyter notebook material.
 
-## Troubleshooting And Seeking Help
+## Saving Your Material After Workshop
+
+The material that will be presented to you during the workshop will be available at [workshop website](https://unidata.github.io/pyaos-ams-2021/index.html) and [accompanying repository](https://github.com/Unidata/pyaos-ams-2021/). **The JupyterHub that you will be using for this workshop will only be available until midnight mountain time on Tuesday, January 19**. [Please save any work you wish to save by that time](https://jupyterlab.readthedocs.io/en/stable/user/files.html?highlight=download#uploading-and-downloading).
+
+
+## Troubleshooting and Seeking Help
 
 If you run into problems, you can:
 
