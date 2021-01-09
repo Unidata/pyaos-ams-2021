@@ -1,6 +1,17 @@
 Resources
 =========
+<!--
 
+When adding your link to a bullet, make sure to use the following format:
+
+* [**title**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/<rest-of-path>.html)<space><space>
+  Add description here
+
+Note the two empty spaces after the closing parenthesis (i.e. <space><space>).
+This is critical, as lines that end with two empty space characters will be rendered as a <br> html element.
+The end result is a tighter vertical spacing between the opening line of the bullet point (the link) and the notebook description.
+
+-->
 ## Complete list of training notebooks
 
 ### Data Access
