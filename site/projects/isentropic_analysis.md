@@ -26,7 +26,7 @@ Create plots for using isentropic coordinates within synoptic analysis and forec
 * xarray (aggregations)
 * xarray (calculations)
 * Unit-aware operations (Pint)
-* MetPy (basic calculations)
+* [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
 * MetPy (unit-aware calculations)
 
 ### Meteorological Background Material

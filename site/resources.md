@@ -78,9 +78,8 @@ The end result is a tighter vertical spacing between the opening line of the bul
 
   _add description_
 
-* MetPy (basic calculations)
-
-  _add description_
+* [**MetPy (basic calculations)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)  
+  This notebook provides a basic introduction to meteorological calculations using MetPy.
 
 * MetPy (calculations for soundings)
 
@@ -99,8 +98,7 @@ The end result is a tighter vertical spacing between the opening line of the bul
 
   _add description_
 
-* [Isentropic Analysis](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb)
-
+* [Isentropic Analysis](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb)  
   Provides a basic description and example of Isentropic analysis techniques.
 
 ### Visualization
