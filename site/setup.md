@@ -7,13 +7,14 @@ Access your AMS 2021 Python Workshop JupyterHub learning environment here: **pla
 
 ## Longer Explanation
 
-To meet the educational objectives of this workshop, we will be employing Jupyter and JupyterHub computational notebook technologies hosted on the [Unidata Science Gateway](https://science-gateway.unidata.ucar.edu/ "Unidata Science Gateway"). Jupyter notebooks enable interactive Python code development supplemented with explanatory text and figures right in your web browser. No special software is necessary. All you need to do as a workshop attendee to access your tutorial workspace is navigate to **place-holder** and login with your GitHub credentials. (A free GitHub account can be obtain here: https://github.com/join). Once logged in, Unidata staff have configured your workspace to ensure you have a smooth workshop experience. Your instructors will guide you through the educational Jupyter notebook material.
+To meet the educational objectives of this workshop, we will be employing Jupyter and JupyterHub computational notebook technologies hosted on the [Unidata Science Gateway](https://science-gateway.unidata.ucar.edu/ "Unidata Science Gateway"). Jupyter notebooks enable interactive Python code development supplemented with explanatory text and figures right in your web browser. No special software is necessary. All you need to do as a workshop attendee to access your tutorial workspace is navigate to **place-holder** and login with your GitHub credentials. (A free GitHub account can be obtain [**here**](https://github.com/join)). Once logged in, Unidata staff have configured your workspace to ensure you have a smooth workshop experience. Your instructors will guide you through the educational Jupyter notebook material.
 
 ## Troubleshooting And Seeking Help
 
 If you run into problems, you can:
 
 - Ask your instructor for help
+- Join one of the [daily office hours](https://unidata.github.io/pyaos-ams-2021/agenda.html#asynchronous-workshop-br-span-class-subhead-throughout-the-week-of-ams-br-january-10th-january-14th-2021-span)
 - [Start a new discussion on the repository for this workshop](https://github.com/Unidata/pyaos-ams-2021/discussions/categories/jupyterhub-trouble "Ask for help").
 
 ## Acknowledgments
