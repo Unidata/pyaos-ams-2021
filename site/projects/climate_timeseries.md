@@ -1,8 +1,6 @@
 Climate Timeseries
 ==================
 
-![under construction](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/under_construction1_0.gif?itok=Pn9g_wu6)
-
 ## Description
 This is an assignment I've given to students who are pretty new to Python (but not programming necessarily, which is why I list as "intermediate"), and it seems to work well.
 The idea is that they grab a Preliminary Monthly Climate Report for any NWS climate location, and copy that data into a text file.
