@@ -119,9 +119,8 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**Matplotlib: Intermediate**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)  
   This notebook builds upon the Matlibplot: Basics notebook and details how to create more complicated plots.  It starts by describing how to draw multiple plots in one figure.  It also covers the scatter function and how it can be used to control the colorization of individual scatter points.  Finally, the notebook gives an introducton to imshow, contour, and contourf and how they can be used to visualize data.
 
-* MetPy (SkewT)
-
-  _add description_
+* [**MetPy SkewT**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/MetPy-SkewT.ipynb)  
+  This notebook demonstrates how to download archived sounding data from the University of Wyoming sounding archive. It then demonstrates how to plot that sounding data on a skew-T diagram using MetPy and add an inset hodograph to that diagram.
 
 * [**python-awips: Working with the Maps and Topography Databases**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)  
   This notebook covers how to use the AWIPS Maps Database to access GIS objects, which are returned as Shapely geometries (Polygon, Point, MultiLineString, etc.) and can be easily plotted by Matplotlib, Cartopy, MetPy, and other packages.  It shows how to use maps and topo data types to obtain GIS data from the AWIPS databases.  Finally, it walks through the steps of plotting data to create a very informative map of a County Warning Area.
