@@ -1,19 +1,15 @@
 Declarative Surface/Upper Air Map
 =================================
 
-![under construction](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/under_construction1_0.gif?itok=Pn9g_wu6)
-
 ## Description
 
 This project aims to equip students with the skills needed to use MetPy's declarative plotting interface to generate surface and upper air maps. In successfully completing this project, students will gain experience using Siphon to access remote, satellite data from the THREDDS Data Server (TDS). Students will also learn how to process and display meteorological data using Python-AWIPS and Cartopy.
 
 ## Related Training Notebooks
 
-
 ### Data Access
-* Siphon (TDS intro)
-* Siphon (catalogs basic)
-* Siphon (catalogs filtering)
+* [Siphon (catalog basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-basics.ipynb)
+* [Siphon (catalog filtering)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-filtering.ipynb)
 * [Siphon (remote_access)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteAccess.ipynb)
 * [Siphon (remote_open)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)
 * [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
