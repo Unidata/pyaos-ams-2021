@@ -19,17 +19,11 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**python-awips: How to Access Data**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)  
   This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the "grid" data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its [online documentation](http://unidata.github.io/python-awips/api/DataAccessLayer.html#) might be a helpful reference.
 
-* Siphon (TDS intro)
+* [**Siphon (catalogs basic)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-basics.ipynb)  
+  This notebook covers the basics for using the library Siphon to interact with THREDDS Catalogs. Topics covered include reading remote THREDDS Catalogs, moving from one catalog to another, and interacting with THREDDS Catalog Datasets. 
 
-  _add description_
-
-* Siphon (catalogs basic)
-
-  _add description_
-
-* Siphon (catalogs filtering)
-
-  _add description_
+* [**Siphon (catalog filtering)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-filtering.ipynb)  
+  This notebook provides tips and tricks for filtering datasets contained within a THREDDS Catalog based on time when the dataset names include date and time information.
 
 * [**Siphon (remote_open)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)  
   This notebook demonstrates the Siphon `remote_open` function, which opens a TDS Catalog remote dataset for random access, and provides examples of interacting with the returned file-like object.
