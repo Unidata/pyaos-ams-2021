@@ -16,13 +16,14 @@ This project seeks to enhance your current skillset by instructing you on how to
 * Siphon (TDS intro)
 * Siphon (catalogs basic)
 * Siphon (catalogs filtering)
-* Siphon (remote_access)
-* Siphon (remote_open)
-* Siphon (subset)
+* [Siphon (remote_access)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteAccess.ipynb)
+* [Siphon (remote_open)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)
+* [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
 * [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Visualization
-* Matplotlib (intermediate)
+* [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
+* [Matplotlib: Intermediate](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)
 * [Cartopy (basic)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)
 * Cartopy (intermediate)
 * [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)

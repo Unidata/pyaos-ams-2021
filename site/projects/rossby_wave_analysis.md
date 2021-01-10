@@ -22,6 +22,7 @@ Allows application of existing calculations and implementation of own calculatio
 * MetPy (with xarray)
 
 ### Visualization
-* Matplotlib (basics)
+* [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
+* [Matplotlib: Intermediate](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)
 
 ## Related MetPy Monday Videos

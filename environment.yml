@@ -15,3 +15,10 @@
    - boto3
    - jupyterlab
    - python-awips
+   - xesmf>=0.5.0
+   - xskillscore
+   - cfgrib
+   - netcdf4
+   # Fix for tab completion
+   - jedi=0.17.2
+
