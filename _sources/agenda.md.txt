@@ -42,11 +42,11 @@ Office hours will be held on a platform called Airmeet, where the first step in 
 support is as easy as pulling up a chair at a virtual table (no, seriously, we have
 tables).
 The office hour schedule is:
-  * Monday, January 11th from 12:00 pm EST - 1:00 pm EST
-  * Tuesday, January 12th from 12:00 pm EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
-  * Wednesday, January 13th from 12:00 pm EST - 1:00 pm EST
-  * Thursday, January 14th from 12:00 pm EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
-  * Friday, January 15th from 12:00 pm EST - 1:00 pm EST
+  * Monday, January 11th from 11:00 am EST - 1:00 pm EST
+  * Tuesday, January 12th from 11:00 am EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
+  * Wednesday, January 13th from 11:00 am EST - 1:00 pm EST
+  * Thursday, January 14th from 11:00 am EST - 1:00 pm EST, and 3:30 pm EST - 4:00 pm EST
+  * Friday, January 15th from 11:00 am EST - 1:00 pm EST
 
 While Unidata staff will be monitoring email/social media for questions, we hope the
 office hours will provide some structure to the otherwise nebulous nature of this period
