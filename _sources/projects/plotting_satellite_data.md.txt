@@ -20,7 +20,6 @@ This project seeks to enhance your current skillset by instructing you on how to
 * [Matplotlib: Basics](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)
 * [Matplotlib: Intermediate](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb)
 * [Cartopy (basic)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)
-* Cartopy (intermediate)
 * [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
 * [python-awips: Working with Satellite Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSatelliteData.ipynb)
 
