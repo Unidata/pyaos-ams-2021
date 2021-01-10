@@ -26,12 +26,11 @@ Create plots for using isentropic coordinates within synoptic analysis and forec
 * [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
 
 ### Meteorological Background Material
-* Isentropic Analysis
+* [Isentropic Analysis](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb)
 * Cross Section Analysis
 
 ### Visualization
 * [Cartopy (basic)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)
-* Cartopy (intermediate)
 
 ## Related Comprehensive Examples
 
