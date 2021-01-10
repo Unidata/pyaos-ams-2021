@@ -21,8 +21,6 @@ This project aims to equip students with the skills needed to use MetPy's declar
 
 ### Visualization
 * [Declarative Plotting](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Declarative-Example.ipynb)
-* python-awips (intro)
-* python-awips (maps database)
 * Cartopy (basic)
 * Cartopy (intermediate)
 * [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
