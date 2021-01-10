@@ -44,10 +44,6 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**Pandas and Numpy (csv data)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)  
   This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
-<!-- * Scipy
-
-  _add description_ -->
-
 * [**Pandas (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)  
   This notebook is an introduction to timeseries analysis and plotting using pandas.
 
@@ -63,17 +59,13 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**Calculations in xarray**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_calculations.ipynb)  
   This notebook describes calculations other than aggregations that can be easily performed with xarray data (including some verification metrics from xskillscore)
 
-* [**Unit-aware operations (Pint)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)
+* [**Unit-aware operations (Pint)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)  
   This notebook is an introduction to unit support in MetPy via Pint.
 
 * [**MetPy (basic calculations)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)  
   This notebook provides a basic introduction to meteorological calculations using MetPy.
 * [**MetPy and Soundings: Calculations**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy-soundings-calculations.ipynb)  
   This notebook demonstrates how MetPy can be used to compute common sounding derived parameters, such as the Lifting Condensation Level, convective available potential energy (CAPE), and convective inhibition (CIN).
-
-* MetPy (unit-aware calculations)
-
-  _add description_
 
 * [**MetPy with xarray**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_and_xarray.ipynb)  
   MetPy provides a fair number of helpful utilities to make working with gridded atmospheric science datasets easier in xarray (in the areas of coordinates/coordinate reference systems, units, and calculations). This notebook also acts as a big-picture introduction to using xarray, with directions to the more focused xarray notebooks where applicable, so this might be the best one to start out with among the xarray notebooks!
