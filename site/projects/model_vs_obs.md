@@ -1,8 +1,6 @@
 How's it going? Model output vs observations
 ============================================
 
-![under construction](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/under_construction1_0.gif?itok=Pn9g_wu6)
-
 ## Description
 
 For this project, participants will towards the goal of comparing output from a forecast model against observed data to get a sense of how well the model is performing in near real time.
@@ -12,9 +10,8 @@ Highlight ways to enhance timeseries charts (time formatting on x-axis, latex la
 ## Related Training notebooks
 
 ### Data Access
-* Siphon (TDS intro)
-* Siphon (catalogs basic)
-* Siphon (catalogs filtering)
+* [Siphon (catalog basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-basics.ipynb)
+* [Siphon (catalog filtering)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-filtering.ipynb)
 * [Siphon (remote_access)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteAccess.ipynb)
 * [Siphon (remote_open)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)
 * [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
