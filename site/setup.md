@@ -3,7 +3,7 @@ Workshop Environment
 
 ## Quick Start
 
-Access your AMS 2021 Python Workshop JupyterHub learning environment here: **place-holder**.
+Access your AMS 2021 Python Workshop JupyterHub learning environment at <https://pyaos-workshop.unidata.ucar.edu/>.
 
 ## Longer Explanation
 
