@@ -80,10 +80,8 @@ The end result is a tighter vertical spacing between the opening line of the bul
 
 * [**MetPy (basic calculations)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)  
   This notebook provides a basic introduction to meteorological calculations using MetPy.
-
-* MetPy (calculations for soundings)
-
-  _add description_
+* [**MetPy and Soundings: Calculations**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy-soundings-calculations.ipynb)  
+  This notebook demonstrates how MetPy can be used to compute common sounding derived parameters, such as the Lifting Condensation Level, convective available potential energy (CAPE), and convective inhibition (CIN).
 
 * MetPy (unit-aware calculations)
 
