@@ -17,14 +17,13 @@ Create plots for using isentropic coordinates within synoptic analysis and forec
 * [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
 
 ### Analysis
-* xarray (data access)
-* xarray (indexing)
-* xarray (interpolation)
-* xarray (aggregations)
-* xarray (calculations)
+* [Xarray data access](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/xarray_data_access.ipynb)
+* [Indexing with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_indexing.ipynb)
+* [Interpolation and regridding with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_interpolation.ipynb)
+* [Xarray aggregation operations](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_aggregations.ipynb)
+* [Calculations in xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_calculations.ipynb)
 * [Unit-aware operations (Pint)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)
 * [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
-* MetPy (unit-aware calculations)
 
 ### Meteorological Background Material
 * Isentropic Analysis

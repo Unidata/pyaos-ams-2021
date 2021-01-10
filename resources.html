@@ -224,6 +224,8 @@ This notebook demonstrates the Siphon <code class="docutils literal notranslate"
 This notebook covers opening, inspecting, subsetting, and plotting a TDS dataset using Siphon’s <code class="docutils literal notranslate"><span class="pre">remote_access</span></code> method.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb"><strong>Siphon (subset)</strong></a><br />
 This notebook demonstrates how to use Siphon to subset and download data using the NetcdfSubset service (NCSS). NCSS supports coordinate-based subsetting, i.e. selecting data by latitude, longitude, time, etc.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/xarray_data_access.ipynb"><strong>Xarray Data Access</strong></a><br />
+This notebook demonstrates how to access local NetCDF and GRIB files and remote OPENDAP files with xarray, as well as briefly how to connect NetCDF data loaded from Siphon into xarray.</p></li>
 </ul>
 </div>
 <div class="section" id="data-analysis">
@@ -238,21 +240,14 @@ This notebook uses pandas and numpy to read and manipulate data from a csv file.
 </li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb"><strong>Pandas (basics)</strong></a><br />
 This notebook is an introduction to timeseries analysis and plotting using pandas.</p></li>
-<li><p>xarray (data access)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>xarray (indexing)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>xarray (interpolation)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>xarray (aggregations)</p>
-<p><em>add description</em></p>
-</li>
-<li><p>xarray (calculations)</p>
-<p><em>add description</em></p>
-</li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_indexing.ipynb"><strong>Indexing with xarray</strong></a><br />
+This notebook discusses the various methods for indexing and selecting subsets of data in xarray.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_interpolation.ipynb"><strong>Interpolation and regridding with xarray</strong></a><br />
+This notebook discusses interpolating and regridding data in xarray and the companion package xesmf.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_aggregations.ipynb"><strong>Xarray aggregation operations</strong></a><br />
+This notebook demonstrates how to easily apply aggregation operations (mean, sum, variance, etc.) to data in xarray objects.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_calculations.ipynb"><strong>Calculations in xarray</strong></a><br />
+This notebook describes calculations other than aggregations that can be easily performed with xarray data (including some verification metrics from xskillscore)</p></li>
 <li><p>Unit-aware operations (Pint)</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb"><strong>Unit-aware operations (Pint)</strong></a><br />
 This notebook is an introduction to unit support in MetPy via Pint.</p></li>
@@ -264,9 +259,8 @@ This notebook provides a basic introduction to meteorological calculations using
 <li><p>MetPy (unit-aware calculations)</p>
 <p><em>add description</em></p>
 </li>
-<li><p>MetPy (with xarray)</p>
-<p><em>add description</em></p>
-</li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_and_xarray.ipynb"><strong>MetPy with xarray</strong></a><br />
+MetPy provides a fair number of helpful utilities to make working with gridded atmospheric science datasets easier in xarray (in the areas of coordinates/coordinate reference systems, units, and calculations). This notebook also acts as a big-picture introduction to using xarray, with directions to the more focused xarray notebooks where applicable, so this might be the best one to start out with among the xarray notebooks!</p></li>
 </ul>
 </div>
 <div class="section" id="meteorological-background-material">
@@ -355,7 +349,7 @@ This notebook explores various interactive <a class="reference external" href="h
   <div class="container">
     <p>
           &copy; Copyright 2020, Unidata. Development supported by National Science Foundation grant AGS-1901712.<br/>
-        Last updated on Jan 10, 2021 at 17:17:23.<br/>
+        Last updated on Jan 10, 2021 at 17:30:42.<br/>
         Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.4.3.<br/>
     </p>
   </div>
