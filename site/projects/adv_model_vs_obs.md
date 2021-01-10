@@ -19,7 +19,6 @@ For interactive exploration of your verification work, notebook widgets are also
 * [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Analysis
-* Scipy
 * [Xarray aggregation operations](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_aggregations.ipynb)
 * [Calculations in xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_calculations.ipynb)
 

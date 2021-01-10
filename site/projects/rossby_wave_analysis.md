@@ -13,12 +13,11 @@ Use GFS analysis products to evaluate real-world applicability of Rossby Wave th
 * [Xarray data access](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/xarray_data_access.ipynb)
 
 ### Analysis
-* Scipy
 * [Indexing with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_indexing.ipynb)
 * [Interpolation and regridding with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_interpolation.ipynb)
 * [Xarray aggregation operations](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_aggregations.ipynb)
 * [Calculations in xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_calculations.ipynb)
-* Unit-aware operations (Pint)
+* [Unit-aware operations (Pint)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)
 * [MetPy with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_and_xarray.ipynb)
 
 ### Visualization
