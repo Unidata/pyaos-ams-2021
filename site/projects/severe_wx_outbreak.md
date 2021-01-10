@@ -17,6 +17,7 @@ For this project, students choose a historical severe weather event of their cho
 * [Siphon (remote_open)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-RemoteOpen.ipynb)
 * [Siphon (subset)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb)
 * xarray (data access)
+* [python-awips: How to Access Data](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)
 
 ### Analysis
 * [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
@@ -29,9 +30,8 @@ For this project, students choose a historical severe weather event of their cho
 * xarray (calculations)
 
 ### Visualization
-* python-awips (maps database)
-* python-awips (intro)
+* [python-awips: Working with Maps and Topography Databases](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb)
 * [Declarative Plotting](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Declarative-Example.ipynb)
-* [MetPy SkewT][https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/MetPy-SkewT.ipynb]
+* [MetPy SkewT](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/MetPy-SkewT.ipynb)
 
 ## Related MetPy Monday Videos
