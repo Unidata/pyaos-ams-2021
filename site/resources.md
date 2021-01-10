@@ -75,8 +75,8 @@ The end result is a tighter vertical spacing between the opening line of the bul
   _add description_
 
 * Unit-aware operations (Pint)
-
-  _add description_
+* [**Unit-aware operations (Pint)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)  
+  This notebook is an introduction to unit support in MetPy via Pint.
 
 * [**MetPy (basic calculations)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)  
   This notebook provides a basic introduction to meteorological calculations using MetPy.
