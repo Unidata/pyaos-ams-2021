@@ -44,9 +44,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**Pandas and Numpy (csv data)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)  
   This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
-* Scipy
+<!-- * Scipy
 
-  _add description_
+  _add description_ -->
 
 * [**Pandas (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)  
   This notebook is an introduction to timeseries analysis and plotting using pandas.
@@ -92,9 +92,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**Cartopy (basic)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)  
   This notebook covers the basic of CartoPy, a package which is useful for creating maps. Examples of creating a basic map, adding map features, and plotting data are covered in this notebook. The [CartoPy Example Gallery](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html) would be another useful resource for users.
 
-* Cartopy (intermediate)
+<!-- * Cartopy (intermediate)
 
-  _add description_
+  _add description_ -->
 
 * [**Declarative Plotting**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Declarative-Example.ipynb)  
   This notebook provides an overview on how to use the declarative syntax within MetPy to create satellite, surface, upper-air, and model data maps. MetPy's METAR parsing functionality is also utilized in this tutorial, along with data smoothing methods. Another useful resource for those interested in learning more about the declarative syntax is the [declarative tutorial on MetPy's website](https://unidata.github.io/MetPy/latest/tutorials/declarative_tutorial.html)
