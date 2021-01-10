@@ -24,7 +24,7 @@ For this project, students choose a historical severe weather event of their cho
 * MetPy (calculations for soundings)
 * MetPy (unit-aware calculations)
 * MetPy (with xarray)
-* Unit-aware operations (Pint)
+* [Unit-aware operations (Pint)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)
 * xarray (indexing)
 * xarray (interpolation)
 * xarray (calculations)
