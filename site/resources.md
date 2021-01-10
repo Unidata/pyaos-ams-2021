@@ -99,7 +99,7 @@ Resources
   _add description_
 
 ### Visualization
-* [Cartopy (basic)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)
+* [**Cartopy (basic)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb)  
   This notebook covers the basic of CartoPy, a package which is useful for creating maps. Examples of creating a basic map, adding map features, and plotting data are covered in this notebook. The [CartoPy Example Gallery](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html) would be another useful resource for users.
 
 * Cartopy (intermediate)
