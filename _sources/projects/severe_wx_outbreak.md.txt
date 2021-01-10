@@ -20,7 +20,7 @@ For this project, students choose a historical severe weather event of their cho
 
 ### Analysis
 * [MetPy (basic calculations)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_basics.ipynb)
-* MetPy (calculations for soundings)
+* [MetPy and Soundings: Calculations](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy-soundings-calculations.ipynb)
 * MetPy (unit-aware calculations)
 * [MetPy with xarray](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/metpy_and_xarray.ipynb)
 * [Unit-aware operations (Pint)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/units.ipynb)
