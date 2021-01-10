@@ -109,7 +109,7 @@ The end result is a tighter vertical spacing between the opening line of the bul
 
   _add description_
 
-* Declarative Plotting
+* [**Declarative Plotting**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Declarative-Example.ipynb)  
   This notebook provides an overview on how to use the declarative syntax within MetPy to create satellite, surface, upper-air, and model data maps. MetPy's METAR parsing functionality is also utilized in this tutorial, along with data smoothing methods. Another useful resource for those interested in learning more about the declarative syntax is the [declarative tutorial on MetPy's website](https://unidata.github.io/MetPy/latest/tutorials/declarative_tutorial.html)
 
 * [**Matplotlib: Basics**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb)  
