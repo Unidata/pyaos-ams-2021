@@ -12,6 +12,9 @@ To meet the educational objectives of this workshop, we will be employing Jupyte
 ## Saving Your Material After Workshop
 
 The material that will be presented to you during the workshop will be available at [workshop website](https://unidata.github.io/pyaos-ams-2021/index.html) and [accompanying repository](https://github.com/Unidata/pyaos-ams-2021/). **The JupyterHub that you will be using for this workshop will only be available until midnight mountain time on Tuesday, January 19**. [Please save any work you wish to save by that time](https://jupyterlab.readthedocs.io/en/stable/user/files.html?highlight=download#uploading-and-downloading).
+```{tip}
+Detailed instructions can be found [**here**](https://github.com/Unidata/pyaos-ams-2021/discussions/126) to setup a python environment and run notebooks locally on your Windows or Mac.
+```
 
 
 ## Troubleshooting and Seeking Help
