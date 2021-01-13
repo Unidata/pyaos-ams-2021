@@ -10,7 +10,7 @@ A 'deeper analysis' piece would have them identify dates where fronts came throu
 ## Related Training Notebooks
 
 ### Data Access
-* [Pandas and Numpy (csv data)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)
+* [Pandas and Numpy (csv data)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/pandas_and_numpy_csv.ipynb)
 
 ### Data Analysis
 * [Numpy (basics)](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)

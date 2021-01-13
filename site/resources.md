@@ -19,6 +19,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
 * [**python-awips: How to Access Data**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb)  
   This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the "grid" data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its [online documentation](http://unidata.github.io/python-awips/api/DataAccessLayer.html#) might be a helpful reference.
 
+* [**Pandas and Numpy (csv data)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/pandas_and_numpy_csv.ipynb)  
+  This notebook uses pandas and numpy to read and manipulate data from a csv file.
+
 * [**Siphon (catalogs basic)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-basics.ipynb)  
   This notebook covers the basics for using the library Siphon to interact with THREDDS Catalogs. Topics covered include reading remote THREDDS Catalogs, moving from one catalog to another, and interacting with THREDDS Catalog Datasets. 
 
@@ -40,9 +43,6 @@ The end result is a tighter vertical spacing between the opening line of the bul
 ### Data Analysis
 * [**Numpy (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb)  
   This notebook highlights pythonic programing with numpy arrays as opposed to lists.
-
-* [**Pandas and Numpy (csv data)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb)  
-  This notebook uses pandas and numpy to read and manipulate data from a csv file.
 
 * [**Pandas (basics)**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb)  
   This notebook is an introduction to timeseries analysis and plotting using pandas.
