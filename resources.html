@@ -213,7 +213,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
 <h3>Data Access<a class="headerlink" href="#data-access" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/python-awips-HowToAccessData.ipynb"><strong>python-awips: How to Access Data</strong></a><br />
-This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the “grid” data type and investigate the Global Forcast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its <a class="reference external" href="http://unidata.github.io/python-awips/api/DataAccessLayer.html">online documentation</a> might be a helpful reference.</p></li>
+This notebook covers the relevant methods for accessing EDEX and investigating what data is available. For this example we look at the “grid” data type and investigate the Global Forecast System (GFS) model. We will talk quite a bit about the DataAccessLayer utility, and its <a class="reference external" href="http://unidata.github.io/python-awips/api/DataAccessLayer.html">online documentation</a> might be a helpful reference.</p></li>
+<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/pandas_and_numpy_csv.ipynb"><strong>Pandas and Numpy (csv data)</strong></a><br />
+This notebook uses pandas and numpy to read and manipulate data from a csv file.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-basics.ipynb"><strong>Siphon (catalogs basic)</strong></a><br />
 This notebook covers the basics for using the library Siphon to interact with THREDDS Catalogs. Topics covered include reading remote THREDDS Catalogs, moving from one catalog to another, and interacting with THREDDS Catalog Datasets.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-catalog-filtering.ipynb"><strong>Siphon (catalog filtering)</strong></a><br />
@@ -225,7 +227,7 @@ This notebook covers opening, inspecting, subsetting, and plotting a TDS dataset
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/siphon-Subset.ipynb"><strong>Siphon (subset)</strong></a><br />
 This notebook demonstrates how to use Siphon to subset and download data using the NetcdfSubset service (NCSS). NCSS supports coordinate-based subsetting, i.e. selecting data by latitude, longitude, time, etc.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/xarray_data_access.ipynb"><strong>Xarray Data Access</strong></a><br />
-This notebook demonstrates how to access local NetCDF and GRIB files and remote OPENDAP files with xarray, as well as briefly how to connect NetCDF data loaded from Siphon into xarray.</p></li>
+This notebook demonstrates how to access local NetCDF and GRIB files and remote OPeNDAP files with xarray, as well as briefly how to connect NetCDF data loaded from Siphon into xarray.</p></li>
 </ul>
 </div>
 <div class="section" id="data-analysis">
@@ -233,10 +235,8 @@ This notebook demonstrates how to access local NetCDF and GRIB files and remote 
 <ul class="simple">
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/numpy.ipynb"><strong>Numpy (basics)</strong></a><br />
 This notebook highlights pythonic programing with numpy arrays as opposed to lists.</p></li>
-<li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/dataAccess/numpy.ipynb"><strong>Pandas and Numpy (csv data)</strong></a><br />
-This notebook uses pandas and numpy to read and manipulate data from a csv file.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/pandas.ipynb"><strong>Pandas (basics)</strong></a><br />
-This notebook is an introduction to timeseries analysis and plotting using pandas.</p></li>
+This notebook is an introduction to time series analysis and plotting using pandas.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_indexing.ipynb"><strong>Indexing with xarray</strong></a><br />
 This notebook discusses the various methods for indexing and selecting subsets of data in xarray.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/analysis/xarray_interpolation.ipynb"><strong>Interpolation and regridding with xarray</strong></a><br />
@@ -257,10 +257,10 @@ MetPy provides a fair number of helpful utilities to make working with gridded a
 </div>
 <div class="section" id="meteorological-background-material">
 <h3>Meteorological Background Material<a class="headerlink" href="#meteorological-background-material" title="Permalink to this headline">¶</a></h3>
-<ul>
-<li><p>Cross Section Analysis</p>
-<p><em>add description</em></p>
-</li>
+<!--* Cross Section Analysis
+
+  _add description_ -->
+<ul class="simple">
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb"><strong>Isentropic Analysis</strong></a><br />
 Provides a basic description and example of Isentropic analysis techniques.</p></li>
 </ul>
@@ -269,7 +269,7 @@ Provides a basic description and example of Isentropic analysis techniques.</p><
 <h3>Visualization<a class="headerlink" href="#visualization" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/Cartopy-Intro.ipynb"><strong>Cartopy (basic)</strong></a><br />
-This notebook covers the basic of CartoPy, a package which is useful for creating maps. Examples of creating a basic map, adding map features, and plotting data are covered in this notebook. The <a class="reference external" href="https://scitools.org.uk/cartopy/docs/latest/gallery/index.html">CartoPy Example Gallery</a> would be another useful resource for users.</p></li>
+This notebook covers the basic of Cartopy, a package which is useful for creating maps. Examples of creating a basic map, adding map features, and plotting data are covered in this notebook. The <a class="reference external" href="https://scitools.org.uk/cartopy/docs/latest/gallery/index.html">Cartopy Example Gallery</a> would be another useful resource for users.</p></li>
 </ul>
 <!-- * Cartopy (intermediate)
 
@@ -280,31 +280,37 @@ This notebook provides an overview on how to use the declarative syntax within M
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-basics.ipynb"><strong>Matplotlib: Basics</strong></a><br />
 This notebook covers the basics of how to use <a class="reference external" href="https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.html">matplotlib.pyplot</a>.  It describes the two main parts of the plot: the figure and axes.  The notebook walks through how to create simple line and scatter plots, how to modify the axes and titles, how to draw multiple data sets on the same graph, and how to alter the display settings for the data.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/matplotlib-intermediate.ipynb"><strong>Matplotlib: Intermediate</strong></a><br />
-This notebook builds upon the Matlibplot: Basics notebook and details how to create more complicated plots.  It starts by describing how to draw multiple plots in one figure.  It also covers the scatter function and how it can be used to control the colorization of individual scatter points.  Finally, the notebook gives an introducton to imshow, contour, and contourf and how they can be used to visualize data.</p></li>
+This notebook builds upon the Matplotlib: Basics notebook and details how to create more complicated plots.  It starts by describing how to draw multiple plots in one figure.  It also covers the scatter function and how it can be used to control the colorization of individual scatter points.  Finally, the notebook gives an introduction to imshow, contour, and contourf and how they can be used to visualize data.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/MetPy-SkewT.ipynb"><strong>MetPy SkewT</strong></a><br />
 This notebook demonstrates how to download archived sounding data from the University of Wyoming sounding archive. It then demonstrates how to plot that sounding data on a skew-T diagram using MetPy and add an inset hodograph to that diagram.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithMapsTopoDatabases.ipynb"><strong>python-awips: Working with the Maps and Topography Databases</strong></a><br />
 This notebook covers how to use the AWIPS Maps Database to access GIS objects, which are returned as Shapely geometries (Polygon, Point, MultiLineString, etc.) and can be easily plotted by Matplotlib, Cartopy, MetPy, and other packages.  It shows how to use maps and topo data types to obtain GIS data from the AWIPS databases.  Finally, it walks through the steps of plotting data to create a very informative map of a County Warning Area.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithModels.ipynb"><strong>python-awips: Working with Models</strong></a><br />
-This notebook creates a colorized plot for the continental US of model data (grib).  It explains how to access the model data from an EDEX server and limit the data returned by using model specific parameters. The notebook covers how to use both pcolormesh and contourf to create colorized plots, and compare the differences between the two.</p></li>
+This notebook creates a colorized plot for the continental US of model data (GRIB).  It explains how to access the model data from an EDEX server and limit the data returned by using model specific parameters. The notebook covers how to use both pcolormesh and contourf to create colorized plots, and compare the differences between the two.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSatelliteData.ipynb"><strong>python-awips: Working with Satellite Data</strong></a><br />
-This notebook investigates what satellite data is available from an EDEX server.  It describes how to define map properties in a function that can be used to plot multiple images.  It then walks through how to retreive Mesoscale GOES satellite grid data from an EDEX server.  Finally, it uses matplotlib pcolormesh to plot the colorized images with a colorbar.</p></li>
+This notebook investigates what satellite data is available from an EDEX server.  It describes how to define map properties in a function that can be used to plot multiple images.  It then walks through how to retrieve Mesoscale GOES satellite grid data from an EDEX server.  Finally, it uses matplotlib pcolormesh to plot the colorized images with a colorbar.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithSurfaceObs.ipynb"><strong>python-awips: Working with Surface Obs</strong></a><br />
 This notebook creates a colored temperature plot for North America using AWIPS METAR observations (datatype <em>obs</em>), similar to existing products in GEMPAK and CAVE. We will be accessing the data through an EDEX server and limiting what’s returned based geographic extend, and specific parameters we’re interested in.  We’ll also be creating a color mapping and colorizing the surface data based on our mapping.  Finally we use matplotlib to plot and display the output.</p></li>
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/python-awips-WorkingWithUpperAirObs.ipynb"><strong>python-awips: Working with Upper Air Obs</strong></a><br />
-This notebook shows how to retreive upper air vertical profile data from EDEX server.  It uses EDEX to get the pressure, temperature, dewpoint lines and wind profile data for the Upper Air observation.  Finally, it describes how to plot a Skew-T/Log-P plot with Hodograph using Matplotlib and Metpy.</p></li>
+This notebook shows how to retrieve upper air vertical profile data from EDEX server.  It uses EDEX to get the pressure, temperature, dewpoint lines and wind profile data for the Upper Air observation.  Finally, it describes how to plot a Skew-T/Log-P plot with Hodograph using Matplotlib and MetPy.</p></li>
 </ul>
 </div>
 <div class="section" id="notebook-enhancements">
 <h3>Notebook Enhancements<a class="headerlink" href="#notebook-enhancements" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/notebook_enhancements/NotebookWidgetsTraining.ipynb"><strong>Notebook widgets</strong></a><br />
-This notebook explores various interactive <a class="reference external" href="https://ipywidgets.readthedocs.io/en/stable/user_guide.html">Jupyter Widgets</a> and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.</p></li>
+This notebook explores various interactive <a class="reference external" href="https://ipywidgets.readthedocs.io/en/stable/user_guide.html">Jupyter Widgets</a> and how they might be used to create dynamic visualizations and user interaction in a Jupyter Notebook.</p></li>
 </ul>
 </div>
 </div>
 <div class="section" id="links-to-other-various-python-resources">
 <h2>Links to other various Python resources<a class="headerlink" href="#links-to-other-various-python-resources" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO"><strong>Unidata MetPy Monday YouTube Playlist</strong></a><br />
+A weekly video series showing how to use MetPy or other Python libraries to solve problems relevant to geoscience applications.</p></li>
+<li><p><a class="reference external" href="https://unidata.github.io/python-training/"><strong>Unidata Python Training</strong></a><br />
+The Unidata Python Training site is meant to be a one-stop website for learning how to use Python for earth-science education and research for any experience level.</p></li>
+</ul>
 </div>
 </div>
 
@@ -343,7 +349,7 @@ This notebook explores various interactive <a class="reference external" href="h
   <div class="container">
     <p>
           &copy; Copyright 2020, Unidata. Development supported by National Science Foundation grant AGS-1901712.<br/>
-        Last updated on Jan 12, 2021 at 21:06:10.<br/>
+        Last updated on Jan 13, 2021 at 22:15:43.<br/>
         Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.4.3.<br/>
     </p>
   </div>

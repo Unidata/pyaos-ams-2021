@@ -1,12 +1,11 @@
 
-Introduction to Timeseries Analysis
-===================================
+Introduction to Time Series Analysis
+====================================
 
 ## Description
 
-This project is intended to provide the building block for timeseries analysis.
-Students will learn the basics of Numpy and Matplotlib with an eye towards creating timeseries plots.
-Potentially include Pandas (e.g. basic dataframes, block averages, moving window averages)?
+This project is intended to provide the building blocks for time series analysis.
+Students will learn the basics of Numpy, Pandas, and Matplotlib with an eye towards creating time series plots.
 
 ## Related Training Notebooks
 
