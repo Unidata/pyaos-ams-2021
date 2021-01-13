@@ -71,9 +71,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
   MetPy provides a fair number of helpful utilities to make working with gridded atmospheric science datasets easier in xarray (in the areas of coordinates/coordinate reference systems, units, and calculations). This notebook also acts as a big-picture introduction to using xarray, with directions to the more focused xarray notebooks where applicable, so this might be the best one to start out with among the xarray notebooks!
 
 ### Meteorological Background Material
-* Cross Section Analysis
+<!--* Cross Section Analysis
 
-  _add description_
+  _add description_ -->
 
 * [**Isentropic Analysis**](https://nbviewer.jupyter.org/github/Unidata/pyaos-ams-2021/blob/master/notebooks/visualization/isentropic_introduction.ipynb)  
   Provides a basic description and example of Isentropic analysis techniques.
