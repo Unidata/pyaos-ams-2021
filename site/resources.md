@@ -118,3 +118,9 @@ The end result is a tighter vertical spacing between the opening line of the bul
   This notebook explores various interactive [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/user_guide.html) and how they might be used to create dynamic visulizations and user interaction in a Jupyter Notebook.
 
 ## Links to other various Python resources
+
+* [**Unidata MetPy Monday YouTube Playlist**](https://www.youtube.com/playlist?list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO)  
+  A weekly video series showing how to use MetPy or other Python libraries to solve problems relevant to geoscience applications.
+
+* [**Unidata Python Training**](https://unidata.github.io/python-training/)  
+  The Unidata Python Training site is meant to be a one-stop website for learning how to use Python for earth-science education and research for any experience level. 
