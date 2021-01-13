@@ -5,7 +5,7 @@ Agenda
 
 Students interested in joining this workshop will need to
 [register](https://docs.google.com/forms/d/e/1FAIpQLSdJAC7Zowt_2-Eci83_HYyluHEZCG80RV2o_M1eSPHROcRt2A/viewform?usp=sf_link)
-in advance.  We'll need your GitHub user ID in order to provision the Jupyterhub resources
+in advance.  We'll need your GitHub user ID in order to provision the JupyterHub resources
 you'll be using. If you don't already have a GitHub ID yet, don't worry — they're easy to
 create and the accounts are free: [GitHub](https://github.com/join).
 ## Workshop Kickoff<br><span class="subhead">Sunday, January 10th, 2021<br>(Session A: 1:00 pm EST to 1:30 pm EST,<br>Session B: 1:30 pm EST to 2:00 pm EST)</span>
@@ -21,8 +21,8 @@ Each session will begin with a 10 minute overview, followed by a 15 minute, smal
 These sessions will take place in a Zoom meeting hosted by the American Meteorological Society.
 The following topics will be covered:
   * asynchronous workshop resources
-  * accessing the jupyterhub server
-  * a tour of the jupyterhub environment:
+  * accessing the JupyterHub server
+  * a tour of the JupyterHub environment:
     * exploring the interface and opening a notebook
     * executing notebook cells
     * creating a new notebook
@@ -30,7 +30,7 @@ The following topics will be covered:
   * where to go for help
   * information about the workshop showcase
 
-Participants will be working in a Unidata Science Gateway Jypyterhub environment throughout the week, so it is critical that these small group sessions are attended by those interested in participating in the workshop.
+Participants will be working in a Unidata Science Gateway JupyterHub environment throughout the week, so it is critical that these small group sessions are attended by those interested in participating in the workshop.
 Students are encouraged to pair up into small groups to work on the projects as a team, although it is possible to tackle projects solo.
 
 ## Asynchronous Workshop<br><span class="subhead">Throughout the week of AMS<br>(January 10th — January 14th, 2021)</span>
