@@ -1,4 +1,4 @@
-flake8==3.8.4
+flake8==4.0.1
 flake8-nb==0.2.5
 pycodestyle==2.6.0
 pyflakes==2.2.0
